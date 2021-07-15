@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_cpu.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\cpu.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_setup_fragment_close_out.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\setup_fragment_close_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_notification.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\toast_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_list_sync_anim.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_list_sync_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_settings_color_48dp.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\logo_settings_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_outputmode.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\dialog_outputmode.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_more.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_more.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_encroid_waiting.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\encroid_waiting.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_sync_toggle.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\preference_widget_sync_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kiosk_icon.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\kiosk_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_more.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_more.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_encroid_progress.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\encroid_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_power.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_power.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_app_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_earth.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_overscan.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_overscan.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_off.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_volume_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_hdmicec.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\hdmicec.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_overscan.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_overscan.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_launcher_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_lb_dialog_fragment.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\lb_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_picker_item.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\picker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_sound.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_app_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_content_fragment_default_icon.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\content_fragment_default_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_checkmark.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\list_item_checkmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_border.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\shape_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_encroid_progress.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\encroid_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_ethernet_fully.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\stat_sys_ethernet_fully.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_sdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_sdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_heartbeat.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\heartbeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_dolby_vision.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\dolby_vision.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_outputs.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_outputs.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_settings_color_48dp.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\logo_settings_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_picker.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_ip_settings.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\ip_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_focused.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_launcher_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_sdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_sdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_outputs.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_outputs.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_more.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_more.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_fragment_slide_left_out.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\fragment_slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_tv.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_settings_tv.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_display.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_display.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_playback_settings.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\playback_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_launcher_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_display.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_display.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_hard_cut_in.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\hard_cut_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_outline.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_info_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_hdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_hdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_encroid_waiting.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\encroid_waiting.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_now_movies.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_now_movies.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_kisok.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\kisok.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_power.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_power.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_searching_128dp.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_bluetooth_searching_128dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_setup_fragment_open_in.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\setup_fragment_open_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_shortcut.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\shortcut.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_hdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_hdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_display.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_display.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_more.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_more.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_earth.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_problem.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_sync_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_hdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_hdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_contact_picture.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\default_contact_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_fragment_slide_left_in.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\fragment_slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_fragment.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\content_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_list_item.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\settings_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_setup_scroll_adapter.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\setup_scroll_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_reversed_widget.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\preference_reversed_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_sdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_sdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_system_update.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_system_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_app_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_hdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_hdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_main_prefs.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\settings_main_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_earth.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_display_position.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\display_position.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chevron_end.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_chevron_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_radio_preference_widget.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\radio_preference_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_lb_dialog_content.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\lb_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_dialog.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\bg_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_edittext_fragment.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\edittext_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_picker_separator.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\picker_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_now_movies.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_now_movies.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_list_item_focus.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\list_item_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_overscan.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_overscan.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_sdr.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_sdr.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_power.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_power.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_browse_item.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\browse_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_outputs.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_outputs.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_fragment_slide_right_out.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\fragment_slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_app_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_overscan.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_overscan.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_ethernet.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_menu_ethernet.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_container.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\dialog_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_lb_dialog_fade_out.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\lb_dialog_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_launcher_icon.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_banner_settings.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_banner_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_power.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_power.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_now_movies.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_now_movies.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_setup_fragment_open_out.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\setup_fragment_open_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_resolution.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\resolution.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_encroid_waiting.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\encroid_waiting.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_picker_column.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\picker_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_outputs.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_outputs.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_fragment_slide_right_in.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\fragment_slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_earth.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-hdpi\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_eth.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\dialog_eth.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_main_prefs.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\main_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_art_frame_shadow.9.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xhdpi\\art_frame_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heartbeat_icon.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\heartbeat_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_layout_dialog.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\layout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_display.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_display.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_encroid_progress.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\encroid_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_setup_fragment_close_in.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\setup_fragment_close_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_up.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_volume_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_wol.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\wol.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_now_movies.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_now_movies.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_settings_color_48dp.png.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable-mdpi\\logo_settings_color_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_display.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\display.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\anim_list_item_pressed.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\anim\\list_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_app_shortcut.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\drawable\\ic_app_shortcut.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_list.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\layout\\settings_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_update.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\update.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\xml_screen_resolution.xml.flat",
+        "source": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\src\\main\\res\\xml\\screen_resolution.xml"
+    },
+    {
+        "merged": "C:\\Users\\poste\\Desktop\\android_packages_apps_odroid_settings\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\poste\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\4e1fce90c0ce9f3f971a10a842cda809\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

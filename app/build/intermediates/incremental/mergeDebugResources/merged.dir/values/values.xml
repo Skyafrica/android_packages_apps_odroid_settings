@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="dolby_vision_entries">
+        <item>Dolby Vision OFF</item>
+        <item>Dolby Vision Follow Sink</item>
+        <item>Dolby Vision Follow Source</item>
+    </string-array>
+    <string-array name="dolby_vision_entry_values" translatable="false">
+        <item>dolby_vision_off</item>
+        <item>dolby_vision_sink</item>
+        <item>dolby_vision_source</item>
+    </string-array>
+    <string-array name="resolutions">
+        <item>autodetect</item>
+        <item>2160p60hz</item>
+        <item>2160p50hz</item>
+        <item>2160p30hz</item>
+        <item>2160p25hz</item>
+        <item>2160p24hz</item>
+        <item>smpte24hz</item>
+        <item>1080p60hz</item>
+        <item>1080i60hz</item>
+        <item>1080p50hz</item>
+        <item>1080i50hz</item>
+        <item>1080p24hz</item>
+        <item>720p60hz</item>
+        <item>720p50hz</item>
+        <item>576p50hz</item>
+        <item>576i50hz</item>
+        <item>480p60hz</item>
+        <item>480i60hz</item>
+        <item>ODROID-VU8</item>
+        <item>ODROID-VU7A Plus</item>
+        <item>ODROID-VU7 Plus</item>
+        <item>ODROID-VU5A</item>
+        <item>ODROID-VU5/7</item>
+        <item>2560x1080p60hz</item>
+        <item>1920x1200p60hz</item>
+        <item>1680x1050p60hz</item>
+        <item>1600x1200p60hz</item>
+        <item>1600x900p60hz</item>
+        <item>1440x900p60hz</item>
+        <item>1360x768p60hz</item>
+        <item>1280x1024p60hz</item>
+        <item>1280x800p60hz</item>
+        <item>1024x768p60hz</item>
+        <item>1024x600p60hz</item>
+        <item>800x600p60hz</item>
+        <item>800x480p60hz</item>
+        <item>640x480p60hz</item>
+        <item>480x320p60hz</item>
+    </string-array>
+    <string-array name="sound_select_entries">
+        <item>HDMI, Line out</item>
+        <item>SPDIF</item>
+        <item>I2S</item>
+    </string-array>
+    <string-array name="sound_select_entry_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <!-- Use DHCP (Dynamic Host Configuration Protocol) for obtaining IP settings [CHAR LIMIT=25] -->
+        <item>DHCP</item>
+        <!-- Use statically defined IP settings [CHAR LIMIT=25]-->
+        <item>Static</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <!-- No HTTP proxy is used for the current wifi network [CHAR LIMIT=25] -->
+        <item>None</item>
+        <!-- Manual HTTP proxy settings are used for the current wifi network [CHAR LIMIT=25] -->
+        <item>Manual</item>
+    </string-array>
+    <bool name="display_need_digital_sounds">true</bool>
+    <bool name="display_need_hdr_function">true</bool>
+    <bool name="display_need_playback_set_function">true</bool>
+    <bool name="display_need_screen_resolution">true</bool>
+    <bool name="display_need_sdr_function">true</bool>
+    <color name="activity_progress_text">#FFEEEEEE</color>
+    <color name="add_accessory_hint_text_color">#FFE0E0E0</color>
+    <color name="background">#FF707070</color>
+    <color name="color_text_item">#FF65686F</color>
+    <color name="color_text_prompt">#FF808080</color>
+    <color name="confirm_device_credential_transparent_black">#60000000</color>
+    <color name="content_breadcrumb_text_color">#88F1F1F1</color>
+    <color name="content_description_text_color">#88F1F1F1</color>
+    <color name="content_fragment_default_icon_color">#33F1F1F1</color>
+    <color name="content_title_text_color">#FFF1F1F1</color>
+    <color name="crypt_keeper_password_background">#70606060</color>
+    <color name="dialog_activity_background">#77000000</color>
+    <color name="icon_background">#FF4A4F51</color>
+    <color name="indigo_500">#FF3F51B5</color>
+    <color name="lb_action_fragment_background">#FF111111</color>
+    <color name="lb_content_breadcrumb_text_color">#88F1F1F1</color>
+    <color name="lb_content_description_text_color">#88F1F1F1</color>
+    <color name="lb_content_title_text_color">#FFF1F1F1</color>
+    <color name="lb_dialog_activity_background">#77000000</color>
+    <color name="lb_dialog_list_item_divider_color">#18FFFFFF</color>
+    <color name="lb_dialog_list_item_unselected_text_color">#FFF1F1F1</color>
+    <color name="lb_dialog_selector_color">#0DFFFFFF</color>
+    <color name="lb_preference_decor_header_background">#0277BD</color>
+    <color name="lb_tv_white">#FFCCCCCC</color>
+    <color name="legacy_app_item_background">#1a000000</color>
+    <color name="list_item_unselected_text_color">#FFF1F1F1</color>
+    <color name="lock_pattern_background">#00000000</color>
+    <color name="lock_pattern_view_regular_color">#ff37474f</color>
+    <color name="lock_pattern_view_regular_color_dark">#ffffff</color>
+    <color name="lock_pattern_view_success_color">#ff84ffff</color>
+    <color name="normal">#FFFFFFFF</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="overlay_blended_light_primary">#ffeeeeee</color>
+    <color name="overlay_blended_light_secondary">#ff878787</color>
+    <color name="quiet">#FF909090</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="selector_color">#0DFFFFFF</color>
+    <color name="settings_background">#FF1F292E</color>
+    <color name="title_color">@android:color/holo_blue_light</color>
+    <color name="toast_notification_background">#881F1F1F</color>
+    <color name="toast_notification_text_color">#FFF0F0F0</color>
+    <color name="tv_white">#FFCCCCCC</color>
+    <color name="unlock_pattern_view_regular_color">@android:color/white</color>
+    <color name="unlock_pattern_view_success_color">#ff84ffff</color>
+    <dimen name="account_content_text_bottom_margin">32dp</dimen>
+    <dimen name="account_content_text_top_margin">13dp</dimen>
+    <dimen name="action_fragment_selector_min_height">8dp</dimen>
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <item format="float" name="activity_progress_title_line_spacing" type="dimen">1.04296</item>
+    <dimen name="activity_progress_title_text_size">36sp</dimen>
+    <dimen name="activity_progress_top_margin">187dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="add_accessory_padding_start">50dp</dimen>
+    <item format="float" name="alpha_activity_in_bkg_end" type="dimen">@dimen/alpha_animiation_max_opacity</item>
+    <item format="float" name="alpha_activity_in_bkg_start" type="dimen">@dimen/alpha_animiation_min_opacity</item>
+    <item format="float" name="alpha_activity_out_bkg_end" type="dimen">@dimen/alpha_animiation_min_opacity</item>
+    <item format="float" name="alpha_activity_out_bkg_start" type="dimen">@dimen/alpha_animiation_max_opacity</item>
+    <item format="float" name="alpha_animiation_max_opacity" type="dimen">1.0</item>
+    <item format="float" name="alpha_animiation_min_opacity" type="dimen">0.0</item>
+    <dimen name="browse_item_description_font_size">14sp</dimen>
+    <dimen name="browse_item_description_marginBottom">9dp</dimen>
+    <dimen name="browse_item_height">168dp</dimen>
+    <dimen name="browse_item_icon_height">112dp</dimen>
+    <dimen name="browse_item_icon_width">112dp</dimen>
+    <dimen name="browse_item_text_marginHor">12dp</dimen>
+    <dimen name="browse_item_title_font_size">16sp</dimen>
+    <dimen name="browse_item_title_marginBottom">29dp</dimen>
+    <dimen name="browse_item_width">168dp</dimen>
+    <dimen name="bt_progress_width_narrow">448dp</dimen>
+    <dimen name="bt_secure_pair_hint_start_margin">5dp</dimen>
+    <dimen name="bt_secure_pair_hint_top_margin">3dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="confirm_credentials_top_padding">0dp</dimen>
+    <dimen name="content_fragment_breadcrumb_text_size">18sp</dimen>
+    <dimen name="content_fragment_default_icon_height">400dp</dimen>
+    <dimen name="content_fragment_default_icon_width">400dp</dimen>
+    <dimen name="content_fragment_delimiter_padding">16dp</dimen>
+    <dimen name="content_fragment_description_text_size">14sp</dimen>
+    <dimen name="content_fragment_icon_width">140dp</dimen>
+    <dimen name="content_fragment_max_icon_height">280dp</dimen>
+    <dimen name="content_fragment_start_padding">48dp</dimen>
+    <dimen name="content_fragment_title_text_bottom_padding">4dp</dimen>
+    <dimen name="content_fragment_title_text_size">36sp</dimen>
+    <dimen name="content_fragment_title_text_top_padding">2dp</dimen>
+    <dimen name="content_icon_inset">16dp</dimen>
+    <dimen name="crypt_keeper_edit_text_ime_padding">8dip</dimen>
+    <dimen name="crypt_keeper_password_top_margin">88dip</dimen>
+    <dimen name="crypt_keeper_password_width">280dip</dimen>
+    <dimen name="crypt_keeper_pattern_separator">100dip</dimen>
+    <dimen name="crypt_keeper_pattern_size">354dip</dimen>
+    <dimen name="crypt_keeper_pattern_top_margin">88dip</dimen>
+    <dimen name="device_storage_usage_indicator_height">32dip</dimen>
+    <dimen name="device_storage_usage_indicator_width">32dip</dimen>
+    <dimen name="edit_text_width_default">300dp</dimen>
+    <dimen name="icon_padding">12dp</dimen>
+    <dimen name="lb_action_fragment_selector_min_height">8dp</dimen>
+    <dimen name="lb_action_section_width">384dp</dimen>
+    <dimen name="lb_action_text_width">248dp</dimen>
+    <dimen name="lb_action_text_width_no_icon">284dp</dimen>
+    <dimen name="lb_content_fragment_breadcrumb_text_size">18sp</dimen>
+    <dimen name="lb_content_fragment_delimiter_padding">16dp</dimen>
+    <dimen name="lb_content_fragment_description_text_size">14sp</dimen>
+    <dimen name="lb_content_fragment_icon_width">140dp</dimen>
+    <dimen name="lb_content_fragment_max_icon_height">280dp</dimen>
+    <dimen name="lb_content_fragment_start_padding">48dp</dimen>
+    <dimen name="lb_content_fragment_title_text_bottom_padding">4dp</dimen>
+    <dimen name="lb_content_fragment_title_text_size">36sp</dimen>
+    <dimen name="lb_content_fragment_title_text_top_padding">2dp</dimen>
+    <dimen name="lb_content_section_width">576dp</dimen>
+    <dimen name="lb_dialog_list_item_checkmark_diameter">8dp</dimen>
+    <dimen name="lb_dialog_list_item_delimiter_padding">4dp</dimen>
+    <dimen name="lb_dialog_list_item_description_font_size">12sp</dimen>
+    <dimen name="lb_dialog_list_item_end_padding">28dp</dimen>
+    <dimen name="lb_dialog_list_item_full_end_padding">56dp</dimen>
+    <dimen name="lb_dialog_list_item_full_start_padding">32dp</dimen>
+    <dimen name="lb_dialog_list_item_icon_height">32dp</dimen>
+    <dimen name="lb_dialog_list_item_icon_width">32dp</dimen>
+    <dimen name="lb_dialog_list_item_min_height">64dp</dimen>
+    <dimen name="lb_dialog_list_item_min_height_small">48dp</dimen>
+    <dimen name="lb_dialog_list_item_start_padding">20dp</dimen>
+    <dimen name="lb_dialog_list_item_title_font_size">18sp</dimen>
+    <dimen name="lb_dialog_list_item_vertical_padding">12dp</dimen>
+    <dimen name="list_item_checkmark_diameter">8dp</dimen>
+    <dimen name="list_item_delimiter_padding">4dp</dimen>
+    <dimen name="list_item_description_font_size">12sp</dimen>
+    <item format="float" name="list_item_disabled_chevron_background_alpha" type="dimen">0.50</item>
+    <item format="float" name="list_item_disabled_description_text_alpha" type="dimen">0.50</item>
+    <item format="float" name="list_item_disabled_title_text_alpha" type="dimen">0.50</item>
+    <dimen name="list_item_end_padding">28dp</dimen>
+    <dimen name="list_item_height">48dp</dimen>
+    <dimen name="list_item_icon_height">32dp</dimen>
+    <dimen name="list_item_icon_size">32dp</dimen>
+    <dimen name="list_item_icon_width">32dp</dimen>
+    <dimen name="list_item_min_height">64dp</dimen>
+    <item format="float" name="list_item_selected_chevron_background_alpha" type="dimen">1.00</item>
+    <item format="float" name="list_item_selected_description_text_alpha" type="dimen">0.50</item>
+    <item format="float" name="list_item_selected_title_text_alpha" type="dimen">1.00</item>
+    <dimen name="list_item_start_padding">20dp</dimen>
+    <dimen name="list_item_title_font_size">18sp</dimen>
+    <item format="float" name="list_item_unselected_description_text_alpha" type="dimen">0.50</item>
+    <item format="float" name="list_item_unselected_text_alpha" type="dimen">1.00</item>
+    <dimen name="list_item_vertical_padding">12dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="pad_end_unsafe_action">56dp</dimen>
+    <dimen name="pad_start_unsafe_action">56dp</dimen>
+    <dimen name="pad_start_unsafe_description">56dp</dimen>
+    <dimen name="picker_column_height">192dp</dimen>
+    <dimen name="picker_column_horizontal_padding">8dp</dimen>
+    <dimen name="picker_item_height">64dp</dimen>
+    <item format="float" name="picker_item_invisible_column_item_alpha" type="dimen">0.00</item>
+    <item format="float" name="picker_item_separator_alpha" type="dimen">0.50</item>
+    <item format="float" name="picker_item_visible_column_item_alpha" type="dimen">0.50</item>
+    <dimen name="picker_separator_horizontal_padding">4dp</dimen>
+    <dimen name="picker_start_padding">24dp</dimen>
+    <dimen name="pq_seekbar_item">14sp</dimen>
+    <dimen name="pq_seekbar_item_marginBottom">12dp</dimen>
+    <dimen name="pq_seekbar_item_marginLeft">12dp</dimen>
+    <dimen name="pq_seekbar_item_marginTop">12dp</dimen>
+    <dimen name="pq_seekbar_title">16sp</dimen>
+    <dimen name="pq_seekbar_title_marginTop">29dp</dimen>
+    <dimen name="progress_fragment_content_width">656dp</dimen>
+    <dimen name="remote_marginStart">100dp</dimen>
+    <dimen name="settings_side_margin">0dip</dimen>
+    <dimen name="setup_action_margin_start">56dp</dimen>
+    <dimen name="setup_action_vertical_offset">195dp</dimen>
+    <dimen name="setup_action_vertical_offset_bottom">61dp</dimen>
+    <dimen name="setup_background_radius">2dp</dimen>
+    <item format="float" name="setup_description_line_spacing_multiplier" type="dimen">1.70667</item>
+    <dimen name="setup_description_margin_start">112dp</dimen>
+    <dimen name="setup_description_margin_top">13dp</dimen>
+    <dimen name="setup_description_text_size">12sp</dimen>
+    <dimen name="setup_description_width">448dp</dimen>
+    <dimen name="setup_elevation">2dp</dimen>
+    <dimen name="setup_elevation_higher">3dp</dimen>
+    <dimen name="setup_list_item_container_shadow_padding">5dp</dimen>
+    <dimen name="setup_list_item_height">48dp</dimen>
+    <dimen name="setup_list_item_icon_margin_end">16dp</dimen>
+    <dimen name="setup_list_item_padding">16dp</dimen>
+    <dimen name="setup_list_item_text_size">14sp</dimen>
+    <dimen name="setup_obfuscation_margin_start">9dp</dimen>
+    <dimen name="setup_obfuscation_margin_top">8dp</dimen>
+    <dimen name="setup_scroll_list_width">237dp</dimen>
+    <item format="float" name="setup_scroll_list_window_offset_percent" type="dimen">68.05556</item>
+    <dimen name="setup_slide_in_offset">28dp</dimen>
+    <dimen name="setup_slide_out_offset">-28dp</dimen>
+    <dimen name="setup_title_height">235dp</dimen>
+    <item format="float" name="setup_title_line_spacing_multiplier" type="dimen">1.04296</item>
+    <dimen name="text_size_description">24sp</dimen>
+    <dimen name="width_action">256dp</dimen>
+    <dimen name="width_description">536dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="ControllerTagId" type="id"/>
+    <item name="LoaderTagId" type="id"/>
+    <item name="ScrollAdapterViewChild" type="id"/>
+    <item name="ShadowView" type="id"/>
+    <item name="ShadowedView" type="id"/>
+    <item name="imageDownloadTask" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="action_description_min_lines">2</integer>
+    <integer name="action_title_max_lines">3</integer>
+    <integer name="action_title_min_lines">1</integer>
+    <integer name="alpha_activity_in_bkg_delay">0</integer>
+    <integer name="alpha_activity_in_bkg_duration">@integer/base_animation_duration</integer>
+    <integer name="alpha_activity_out_bkg_delay">0</integer>
+    <integer name="alpha_activity_out_bkg_duration">@integer/base_animation_duration</integer>
+    <integer name="animate_delay">550</integer>
+    <integer name="animate_in_duration">250</integer>
+    <integer name="base_animation_duration">500</integer>
+    <integer name="captioning_preview_default_font_size">48</integer>
+    <integer name="dialog_animation_duration">150</integer>
+    <integer name="lb_dialog_action_description_min_lines">2</integer>
+    <integer name="lb_dialog_action_title_max_lines">3</integer>
+    <integer name="lb_dialog_action_title_min_lines">1</integer>
+    <integer name="lb_dialog_animation_duration">150</integer>
+    <integer name="lb_dialog_fade_out_duration">200</integer>
+    <integer name="secondary_animate_delay">120</integer>
+    <integer name="setup_fade_in_duration">250</integer>
+    <integer name="setup_fade_out_duration">250</integer>
+    <integer name="setup_list_item_pressed_fade_duration">100</integer>
+    <integer name="slide_in_distance">120</integer>
+    <integer name="slide_in_stagger">100</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="action_off_description">Off</string>
+    <string name="action_off_title">Off</string>
+    <string name="action_on_description">On</string>
+    <string name="action_on_title">On</string>
+    <string name="app_shortcut">Shortcut</string>
+    <string name="battery_history_days"><ns1:g id="days">%1$d</ns1:g>d <ns1:g id="hours">%2$d</ns1:g>h <ns1:g id="minutes">%3$d</ns1:g>m <ns1:g id="seconds">%4$d</ns1:g>s</string>
+    <string name="battery_history_days_no_seconds"><ns1:g id="days">%1$d</ns1:g>d <ns1:g id="hours">%2$d</ns1:g>h <ns1:g id="minutes">%3$d</ns1:g>m</string>
+    <string name="battery_history_hours"><ns1:g id="hours">%1$d</ns1:g>h <ns1:g id="minutes">%2$d</ns1:g>m <ns1:g id="seconds">%3$d</ns1:g>s</string>
+    <string name="battery_history_hours_no_seconds"><ns1:g id="hours">%1$d</ns1:g>h <ns1:g id="minutes">%2$d</ns1:g>m</string>
+    <string name="battery_history_minutes"><ns1:g id="minutes">%1$d</ns1:g>m <ns1:g id="seconds">%2$d</ns1:g>s</string>
+    <string name="battery_history_minutes_no_seconds"><ns1:g id="minutes">%1$d</ns1:g>m</string>
+    <string name="battery_history_seconds"><ns1:g id="seconds">%1$d</ns1:g>s</string>
+    <string name="big_core_clock">Big Core Clocks</string>
+    <string name="big_core_governor">Big Core Governors</string>
+    <string name="bt_apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="captions_display_off">Off</string>
+    <string name="captions_display_on">On</string>
+    <string name="cec_auto_change_language">Auto change language</string>
+    <string name="cec_control">CEC Control</string>
+    <string name="cec_one_key_play">One key play</string>
+    <string name="cec_one_key_power_off">One key power off</string>
+    <string name="cec_switch">CEC Switch</string>
+    <string name="check_update">Check update at Boot</string>
+    <string name="checking_decryption">Checking\u2026</string>
+    <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
+    <string name="cpu">CPU</string>
+    <string name="crypt_keeper_button_text">Encrypt Mbox</string>
+    <string name="crypt_keeper_confirm_title">Encrypt?</string>
+    <string name="crypt_keeper_data_corrupt_summary">
+      The password you entered is correct, but unfortunately your data is
+      corrupt.
+      \n\nTo resume using your phone, you need to perform a factory reset.
+      When you set up your phone after the reset, you\u2019ll have an opportunity
+      to restore any data that was backed up to your Google Account.
+    </string>
+    <string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
+    <string name="crypt_keeper_desc">
+      You can encrypt your accounts, settings, downloaded apps and their data,
+      media, and other files. After you encrypt your tablet, assuming you\u2019ve set up a screen lock
+      (that is, a pattern or numeric PIN or password), you\u2019ll need to unlock the screen to decrypt
+      the tablet every time you power it on. The only other way to decrypt is to perform a factory
+      data reset, erasing all your data.\n\nEncryption takes an hour or more. You must start with
+      a charged battery and keep your tablet plugged in throughout the process. If you interrupt it,
+      you\u2019ll lose some or all of your data</string>
+    <string name="crypt_keeper_dialog_need_password_message">You need to set a lock screen PIN or password before you can start encryption.</string>
+    <string name="crypt_keeper_dialog_need_password_title">No lock screen PIN or password</string>
+    <string name="crypt_keeper_encrypt_title">Encrypt MBOX</string>
+    <string name="crypt_keeper_encrypted_summary">Encrypted</string>
+    <string name="crypt_keeper_enter_password">Type your password</string>
+    <string name="crypt_keeper_failed_summary">
+      Encryption was interrupted and can\u2019t complete. As a result, the data on
+      your phone is no longer accessible.
+      \n\nTo resume using your phone, you need to perform a factory reset.
+      When you set up your phone after the reset, you\u2019ll have an opportunity
+      to restore any data that was backed up to your Google Account.
+    </string>
+    <string name="crypt_keeper_failed_title">Encryption unsuccessful</string>
+    <string name="crypt_keeper_final_desc">
+    The encryption operation is irreversible and if you interrupt it, you\u2019ll lose data.
+    Encryption takes an hour or more, during which the tablet will restart several times.
+    </string>
+    <string name="crypt_keeper_force_power_cycle">To unlock your phone, turn it off and then on.</string>
+    <string name="crypt_keeper_low_charge_text">Charge your battery and try again.</string>
+    <string name="crypt_keeper_settings_title">Encryption</string>
+    <string name="crypt_keeper_setup_description">Wait while your phone
+    is being encrypted. <ns1:g example="50" id="percent">^1</ns1:g>% complete.</string>
+    <string name="crypt_keeper_setup_time_remaining">Wait while your phone
+    is being encrypted. Time remaining: <ns1:g example="1:23" id="duration">^1</ns1:g></string>
+    <string name="crypt_keeper_setup_title">Encrypting</string>
+    <string name="crypt_keeper_switch_input_method">Switch input method</string>
+    <string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string>
+    <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after
+    <ns1:g example="7" id="count">^1</ns1:g> more failed attempts to be unlocked!
+    </string>
+    <string name="cryptkeeper_emergency_call">Emergency call</string>
+    <string name="cryptkeeper_return_to_call">Return to call</string>
+    <string name="cryptkeeper_wrong_password">Wrong Password</string>
+    <string name="cryptkeeper_wrong_pattern">Wrong Pattern</string>
+    <string name="cryptkeeper_wrong_pin">Wrong PIN</string>
+    <string name="date_separator">/</string>
+    <string name="device_audio_spdif">Spdif</string>
+    <string name="device_color">Color</string>
+    <string name="device_colorattribute">Format and Depth</string>
+    <string name="device_colorattribute_change">Confirm change to color:</string>
+    <string name="device_countdown"> seconds later dismiss</string>
+    <string name="device_display">Display</string>
+    <string name="device_displaymode">Display Mode</string>
+    <string name="device_hdr">HDR to SDR</string>
+    <string name="device_outputmode">Screen resolution</string>
+    <string name="device_outputmode_auto">Auto switch to best resolution</string>
+    <string name="device_outputmode_change">Reboot to change mode:</string>
+    <string name="device_outputmode_color_depth">Color Depth Settings</string>
+    <string name="device_outputmode_color_space">Color Space Settings</string>
+    <string name="device_outputmode_confirm_deepcolor">Confirm turn on deep color mode</string>
+    <string name="device_outputmode_confirm_mode">Confirm turn off deep color mode</string>
+    <string name="device_outputmode_deepcolor">deep color mode</string>
+    <string name="device_position">Screen position</string>
+    <string name="device_position_description">current scaling is</string>
+    <string name="device_position_zoomin">Zoom in screen</string>
+    <string name="device_position_zoomout">Zoom out screen</string>
+    <string name="device_sdr">SDR to HDR</string>
+    <string name="device_sound">Audio Output</string>
+    <string name="device_sound_digital_auto">Auto detection</string>
+    <string name="device_sound_digital_auto_off">OFF</string>
+    <string name="device_sound_digital_hdmi">HDMI</string>
+    <string name="device_sound_digital_pcm">PCM</string>
+    <string name="device_sound_digital_spdif">SPDIF</string>
+    <string name="device_sound_dolby_drcline">LINE</string>
+    <string name="device_sound_dolby_drcmode">DRC mode</string>
+    <string name="device_sound_dolby_drcoff">OFF</string>
+    <string name="device_sound_dolby_drcrf">RF</string>
+    <string name="device_sound_dts">DTS Sounds</string>
+    <string name="device_sound_dts_dialnorm">DTS Dialnorm</string>
+    <string name="device_sound_dts_downmix">DTS Downmix</string>
+    <string name="device_sound_dts_downmix_o">Lo/Ro</string>
+    <string name="device_sound_dts_downmix_t">Lt/Rt</string>
+    <string name="device_sound_dts_mulasset">DTS Mulasset</string>
+    <string name="device_sound_dts_trans">DTS Transcoder</string>
+    <string name="device_sound_dts_trans_51pcm">5.1 PCM Transcoder</string>
+    <string name="device_sound_dts_trans_71pcm">7.1 PCM Transcoder</string>
+    <string name="device_sound_dts_trans_auto">Auto</string>
+    <string name="device_sound_select">Output select</string>
+    <string name="device_tv_audio_arc">Arc</string>
+    <string name="device_tv_audio_speaker">Speaker</string>
+    <string name="dolby_vision">Dolby Vision</string>
+    <string name="dolby_vision_default_enable">Dolby vision enable</string>
+    <string name="dolby_vision_graphics_priority">Dolby Vision Graphics Priority</string>
+    <string name="dolby_vision_low_latency_rgb">Dolby vision enable with low latency (RGB)</string>
+    <string name="dolby_vision_low_latency_yuv">Dolby vision enable with low latency (YUV)</string>
+    <string name="dolby_vision_off">Dolby vision disable</string>
+    <string name="dolby_vision_set">Dolby Vision Set</string>
+    <string name="dolby_vision_tv">TV Dolby Vision</string>
+    <string name="dolby_vision_tv_set">TV Dolby Vision Set</string>
+    <string name="enter_password">To start Android, enter your password</string>
+    <string name="enter_pattern">To start Android, draw your pattern</string>
+    <string name="enter_pin">To start Android, enter your PIN</string>
+    <string name="eth0_address">Ethernet MAC address</string>
+    <string name="ethernet_settings">Ethernet settings</string>
+    <string name="get_custom_url">Please enter your Android update server URL properly.</string>
+    <string name="global_change_warning">This setting affects all users on this tablet.</string>
+    <string name="graphics_priority">Graphics Priority</string>
+    <string name="heartbeat">Heartbeat</string>
+    <string name="kiosk">Kiosk</string>
+    <string name="kiosk_mode">Kiosk Mode</string>
+    <string name="kiosk_mode_info">Disable the navigation bar and status bar</string>
+    <string name="landscape">Landscape</string>
+    <string name="launcher_settings_app_name">Odroid Settings</string>
+    <item format="float" name="lb_dialog_list_item_disabled_chevron_background_alpha" type="string">0.50</item>
+    <item format="float" name="lb_dialog_list_item_disabled_description_text_alpha" type="string">0.50</item>
+    <item format="float" name="lb_dialog_list_item_disabled_title_text_alpha" type="string">0.50</item>
+    <item format="float" name="lb_dialog_list_item_selected_chevron_background_alpha" type="string">1.00</item>
+    <item format="float" name="lb_dialog_list_item_selected_description_text_alpha" type="string">0.50</item>
+    <item format="float" name="lb_dialog_list_item_selected_title_text_alpha" type="string">1.00</item>
+    <item format="float" name="lb_dialog_list_item_unselected_description_text_alpha" type="string">0.50</item>
+    <item format="float" name="lb_dialog_list_item_unselected_text_alpha" type="string">1.00</item>
+    <string name="led">Led</string>
+    <string name="little_core_clock">Little Core Clocks</string>
+    <string name="little_core_governor">Little Core Governors</string>
+    <string name="lock_profile_wipe_attempts">Try again. Attempt <ns1:g id="current_attempts">%1$d</ns1:g> of <ns1:g id="total_attempts">%2$d</ns1:g>.</string>
+    <string name="lock_profile_wipe_content">Too many incorrect attempts. Your work profile and associated data will be removed from this device.</string>
+    <string name="lock_profile_wipe_dismiss">Dismiss</string>
+    <string name="lock_profile_wipe_warning_content_password">If you enter an incorrect work password on this attempt, your work profile and associated data will be removed from this device.</string>
+    <string name="lock_profile_wipe_warning_content_pattern">If you enter an incorrect work pattern on this attempt, your work profile and associated data will be removed from this device.</string>
+    <string name="lock_profile_wipe_warning_content_pin">If you enter an incorrect work PIN on this attempt, your work profile and associated data will be removed from this device.</string>
+    <string name="lock_profile_wipe_warning_title">Last try</string>
+    <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue</string>
+    <string name="lockpassword_confirm_your_password_generic_profile">Enter your work password to continue</string>
+    <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
+    <string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue</string>
+    <string name="lockpassword_confirm_your_pin_generic_profile">Enter your work PIN to continue</string>
+    <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
+    <string name="lockpassword_invalid_password">Wrong password</string>
+    <string name="lockpassword_invalid_pin">Wrong PIN</string>
+    <string name="lockpassword_strong_auth_required_reason_restart_device_password">Enter your device password to continue. Required after device restarts.</string>
+    <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Enter your device PIN to continue. Required after device restarts.</string>
+    <string name="lockpassword_strong_auth_required_reason_restart_work_password">Enter your work password to continue. Required after device restarts.</string>
+    <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Enter your work PIN to continue. Required after device restarts.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in <ns1:g id="number">%d</ns1:g> seconds.</string>
+    <string name="master_clear_button_text">Reset Mbx</string>
+    <string name="misc_settings">Misc settings</string>
+    <string name="netflix_esn">Netflix ESN</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="playback_hdmi_selfadaption">HDMI self-adaption</string>
+    <string name="playback_hdmi_selfadaption_part">part mode</string>
+    <string name="playback_hdmi_selfadaption_part_desc">only support 23.976hz,29.97hz,59.94hz self adaption</string>
+    <string name="playback_hdmi_selfadaption_total">totle mode</string>
+    <string name="playback_hdmi_selfadaption_total_desc">support all frequencys self adaption</string>
+    <string name="playback_settings">Playback settings</string>
+    <string name="portrait">Portrait</string>
+    <string name="portrait_270">270</string>
+    <string name="portrait_90">90</string>
+    <string name="power_action_restart">restart</string>
+    <string name="power_action_shutdown">shutdown</string>
+    <string name="power_action_suspend">sleep now</string>
+    <string name="power_key_action">Power</string>
+    <string name="power_key_definition">Power key definition</string>
+    <string name="power_key_shutdown">shutdown</string>
+    <string name="power_key_suspend">suspend and resume</string>
+    <string name="pref_enable_bluetooth_sink">pref_enable_bluetooth_sink</string>
+    <string name="pref_enable_bluetooth_sink_title">Enable Bluetooth Sink profile</string>
+    <string name="pref_enable_gps">pref_enable_gps</string>
+    <string name="pref_enable_gps_title">Enable GPS</string>
+    <string name="pref_force_shutdown_without_dialog">pref_force_shutdown_without_dialog</string>
+    <string name="pref_force_shutdown_without_dialog_title">Force shutdown without dialog</string>
+    <string name="pref_static_ip">pref_static_ip</string>
+    <string name="pref_static_ip_title">IP and Proxy Settings</string>
+    <string name="proxy_error">Attention</string>
+    <string name="proxy_error_dismiss">OK</string>
+    <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
+    <string name="proxy_error_empty_port">You need to complete the port field.</string>
+    <string name="proxy_error_invalid_exclusion_list">The exclusion list you typed isn\u2019t properly formatted. Type a comma-separated list of excluded domains.</string>
+    <string name="proxy_error_invalid_host">The hostname you typed isn\u2019t valid.</string>
+    <string name="proxy_error_invalid_port">The port you typed isn\u2019t valid.</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_hostname_label">Proxy hostname</string>
+    <string name="proxy_port_hint" translatable="false">8080</string>
+    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_settings_title">Proxy settings</string>
+    <string name="rotation">Rotation</string>
+    <string name="settings_app_name">Odroid Settings</string>
+    <string name="settings_menu">Menu</string>
+    <string name="shortcut_title_f10">F10</string>
+    <string name="shortcut_title_f7">F7</string>
+    <string name="shortcut_title_f8">F8</string>
+    <string name="shortcut_title_f9">F9</string>
+    <string name="show_all_resolution">Support Resolution</string>
+    <string name="starting_android">Starting Android\u2026</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="surround_sound_format_aac_lc">AAC</string>
+    <string name="surround_sound_format_ac3">Dolby Digital</string>
+    <string name="surround_sound_format_ac4">Dolby AC-4</string>
+    <string name="surround_sound_format_dts">DTS</string>
+    <string name="surround_sound_format_dts_hd">DTS-HD</string>
+    <string name="surround_sound_format_e_ac3">Dolby Digital Plus</string>
+    <string name="surround_sound_format_e_ac3_joc">Dolby Atmos in Dolby Digital Plus</string>
+    <string name="surround_sound_format_truehd">Dolby TrueHD</string>
+    <string name="sync_active">Sync active</string>
+    <string name="sync_failed">Sync failed</string>
+    <string name="system_cec">HDMI CEC</string>
+    <string name="system_more_setting">More settings</string>
+    <string name="system_powerkeyaction">Powerkey definition</string>
+    <string name="system_setting">Settings</string>
+    <string name="time_separator">:</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_ok">OK</string>
+    <string name="tv_cancel">cancel</string>
+    <string name="tv_cec_auto_power_on_all">Auto Power On All</string>
+    <string name="tv_cec_manual_wake_up_devices">Manual wakeup devices</string>
+    <string name="tv_ok">OK</string>
+    <string name="update">Update</string>
+    <string name="update_custom_server">Custom</string>
+    <string name="update_from_online">From online package</string>
+    <string name="update_from_storage">From downloaded package</string>
+    <string name="update_mirror_server">Mirror</string>
+    <string name="update_official_server">Official</string>
+    <string name="update_selected_server">Update Server</string>
+    <string name="video_priority">Video Priority</string>
+    <string name="wake_on_lan">Wake On Lan</string>
+    <string name="wifi_advanced_settings_label">IP settings</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns1_hint" translatable="false">8.8.8.8</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_dns2_hint" translatable="false">4.4.4.4</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_gateway_hint" translatable="false">192.168.1.1</string>
+    <string name="wifi_ip_address">IP address</string>
+    <string name="wifi_ip_address_hint" translatable="false">192.168.1.128</string>
+    <string name="wifi_ip_settings">IP settings</string>
+    <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
+    <string name="wifi_ip_settings_menu_cancel">Cancel</string>
+    <string name="wifi_ip_settings_menu_save">Save</string>
+    <string name="wifi_network_prefix_length">Network prefix length</string>
+    <string name="wifi_network_prefix_length_hint" translatable="false">24</string>
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Canvas"/>
+    <style name="Canvas.Image"/>
+    <style name="Canvas.Image.Dialog"/>
+    <style name="Canvas.Image.Dialog.Content"/>
+    <style name="Canvas.Image.Dialog.Content.Icon">
+        <item name="android:maxHeight">@dimen/content_fragment_max_icon_height</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/content_fragment_default_icon</item>
+    </style>
+    <style name="Canvas.Image.Dialog.List"/>
+    <style name="Canvas.Image.Dialog.List.Checkmark">
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/list_item_checkmark</item>
+        <item name="android:visibility">invisible</item>
+    </style>
+    <style name="Canvas.Image.Dialog.List.Icon">
+        <item name="android:scaleType">center</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="Canvas.Text"/>
+    <style name="Canvas.Text.Dialog"/>
+    <style name="Canvas.Text.Dialog.Content"/>
+    <style name="Canvas.Text.Dialog.Content.Breadcrumb">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/content_breadcrumb_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_breadcrumb_text_size</item>
+    </style>
+    <style name="Canvas.Text.Dialog.Content.Description">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:gravity">end</item>
+        <item name="android:textColor">@color/content_description_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_description_text_size</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style>
+    <style name="Canvas.Text.Dialog.Content.Title">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:paddingBottom">@dimen/content_fragment_title_text_bottom_padding</item>
+        <item name="android:paddingTop">@dimen/content_fragment_title_text_top_padding</item>
+        <item name="android:textColor">@color/content_title_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_title_text_size</item>
+    </style>
+    <style name="Canvas.Text.Dialog.List"/>
+    <style name="Canvas.Text.Dialog.List.Description">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_description_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="Canvas.Text.Dialog.List.Title">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_title_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+    </style>
+    <style name="ContentFragment">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="HintText">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:textColor">@color/add_accessory_hint_text_color</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="SettingsStyle.TextAppearanceLarge" parent="@android:style/TextAppearance.Holo.Large">
+        <item name="android:textSize">34sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SettingsStyle.TextAppearanceMedium" parent="@android:style/TextAppearance.Holo.Medium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SettingsWindowAnimationStyle" parent="@android:style/Animation.Activity">
+        <item name="android:fragmentOpenEnterAnimation">@anim/setup_fragment_open_in</item>
+        <item name="android:fragmentOpenExitAnimation">@anim/setup_fragment_open_out</item>
+        <item name="android:fragmentCloseEnterAnimation">@anim/setup_fragment_close_in</item>
+        <item name="android:fragmentCloseExitAnimation">@anim/setup_fragment_close_out</item>
+    </style>
+    <style name="SyncSwitchPreference" parent="LeanbackPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_sync_toggle</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="Theme.Leanback.FormWizard.Solid" parent="@android:style/Theme.Leanback.FormWizard">
+        <item name="android:windowBackground">@color/settings_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+    </style>
+    <style name="Theme.Leanback.FormWizard.Transparent" parent="@android:style/Theme.Leanback.FormWizard">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+    </style>
+    <style name="Theme.Settings" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/settings_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Leanback</item>
+    </style>
+    <style name="Theme.Settings.BluetoothPairing" parent="@style/SettingsStyle.TextAppearanceMedium">
+        <item name="android:textSize">@dimen/text_size_description</item>
+    </style>
+    <style name="Theme.Settings.Display" parent="android:Theme">
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Settings.Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="wifi_item">
+        <item name="android:layout_marginTop">8dip</item>
+        <item name="android:layout_marginStart">8dip</item>
+        <item name="android:layout_marginEnd">8dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">start</item>
+    </style>
+    <style name="wifi_item_content">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Subhead</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="wifi_item_edit_content">
+        <item name="android:paddingStart">4dip</item>
+        <item name="android:layout_marginStart">4dip</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="wifi_item_label">
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Body1</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="wifi_item_spinner" parent="wifi_item_content">
+        <item name="android:minHeight">48dp</item>
+    </style>
+    <style name="wifi_item_warning">
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Body1</item>
+        <item name="android:textColor">?android:attr/colorError</item>
+    </style>
+    <style name="wifi_section">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <declare-styleable name="CanvasSettings">
+        <attr format="reference" name="preference"/>
+    </declare-styleable>
+    <declare-styleable name="ColorStateListItem">
+        <!-- Base color for this state. -->
+        <attr name="android:color"/>
+        <!-- Alpha multiplier applied to the base color. -->
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        <!-- The authority of the Font Provider to be used for the request. -->
+        <attr format="string" name="fontProviderAuthority"/>
+        <!-- The package for the Font Provider to be used for the request. This is used to verify
+        the identity of the provider. -->
+        <attr format="string" name="fontProviderPackage"/>
+        <!-- The query to be sent over to the provider. Refer to your font provider's documentation
+        on the format of this string. -->
+        <attr format="string" name="fontProviderQuery"/>
+        <!-- The sets of hashes for the certificates the provider should be signed with. This is
+        used to verify the identity of the provider, and is only required if the provider is not
+        part of the system image. This value may point to one list or a list of lists, where each
+        individual list represents one collection of signature hashes. Refer to your font provider's
+        documentation for these values. -->
+        <attr format="reference" name="fontProviderCerts"/>
+        <!-- The strategy to be used when fetching font data from a font provider in XML layouts.
+        This attribute is ignored when the resource is loaded from code, as it is equivalent to the
+        choice of API between {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int)} (blocking) and
+        {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
+        (async). -->
+        <attr name="fontProviderFetchStrategy">
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
+            <enum name="blocking" value="0"/>
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            <enum name="async" value="1"/>
+        </attr>
+        <!-- The length of the timeout during fetching. -->
+        <attr format="integer" name="fontProviderFetchTimeout">
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        <!-- The style of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any style information in the font's header tables. If
+         unspecified, the value in the font's header tables will be used. -->
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        <!-- The reference to the font file to be used. This should be a file in the res/font folder
+         and should therefore have an R reference value. E.g. @font/myfont -->
+        <attr format="reference" name="font"/>
+        <!-- The weight of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any weight information in the font's header tables. Must
+         be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
+         common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
+         in the font's header tables will be used. -->
+        <attr format="integer" name="fontWeight"/>
+        <!-- The variation settings to be applied to the font. The string should be in the following
+         format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
+         used, or the font used does not support variation settings, this attribute needs not be
+         specified. -->
+        <attr format="string" name="fontVariationSettings"/>
+        <!-- The index of the font in the tcc font file. If the font file referenced is not in the
+        tcc format, this attribute needs not be specified. -->
+        <attr format="integer" name="ttcIndex"/>
+        <!-- References to the framework attrs -->
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="FrameLayoutWithShadows">
+        <!-- default shadow drawable -->
+        <attr format="reference" name="defaultShadow"/>
+        <!-- drawable on bottom of content, note: it requires intrinsic height,
+             so ColorDrawable does not work,  use ShapeDrawable with solid color
+             instead -->
+        <attr format="reference" name="drawableBottom"/>
+        </declare-styleable>
+    <declare-styleable name="GradientColor">
+        <!-- Start color of the gradient. -->
+        <attr name="android:startColor"/>
+        <!-- Optional center color. -->
+        <attr name="android:centerColor"/>
+        <!-- End color of the gradient. -->
+        <attr name="android:endColor"/>
+        <!-- Type of gradient. The default type is linear. -->
+        <attr name="android:type"/>
+
+        <!-- Only applied to RadialGradient-->
+        <!-- Radius of the gradient, used only with radial gradient. -->
+        <attr name="android:gradientRadius"/>
+
+        <!-- Only applied to SweepGradient / RadialGradient-->
+        <!-- X coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerX"/>
+        <!-- Y coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerY"/>
+
+        <!-- LinearGradient specific -->
+        <!-- X coordinate of the start point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startX"/>
+        <!-- Y coordinate of the start point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startY"/>
+        <!-- X coordinate of the end point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endX"/>
+        <!-- Y coordinate of the end point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endY"/>
+
+        <!-- Defines the tile mode of the gradient. SweepGradient doesn't support tiling. -->
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        <!-- The offset (or ratio) of this current color item inside the gradient.
+             The value is only meaningful when it is between 0 and 1. -->
+        <attr name="android:offset"/>
+        <!-- The current color for the offset inside the gradient. -->
+        <attr name="android:color"/>
+    </declare-styleable>
+    <declare-styleable name="RadioPreference">
+        <attr format="string" name="radioGroup"/>
+    </declare-styleable>
+    <declare-styleable name="ScrollAdapterView">
+
+        <attr name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+
+        <!-- indicate whether the ScrollAdapterView's child can have focus,
+        default is true -->
+        <attr format="boolean" name="itemFocusable"/>
+
+        <!--
+          set to 1 (default value) for single row/column, set to > 1 for grid view,
+          set to 0 for auto adjust rows/columns by widget size.
+        -->
+        <attr format="integer" name="gridSetting"/>
+
+        <!-- space between two items -->
+        <attr format="dimension" name="space"/>
+
+        <!-- alternative space size of a selected item, ScrollAdapterView may assign
+        more (or less) space to the selected item and animate the transition between
+        multiple items.  In a more complicated case: if each item has a different
+        selectedSize,  use ScrollAdapterCustomSize. <p>
+        The value can be used in two cases: <p>
+        - when selectedTakesMoreSpace is true:  ScrollAdapterView will allocate more
+        spaces surrounding the focused item.  The extra spaces is added to start/end
+        depending on "scrollItemAlign". <p>
+        - when selectedTakesMoreSpace is false: ScrollAdapterView will not allocate
+        more spaces for focused item,  but will align the focused item using the value. <p>
+        In any case, ScrollAdapterView never scale the View or change its width or height,
+        the view itself is responsible doing the scale in ScrollAdapterTransform or
+        ScrollAdapterView.OnScrollListener
+        -->
+        <attr format="dimension" name="selectedSize"/>
+
+        <!-- if ScrollAdapterView will use "selectedSize" or ScrollAdapterCustomSize
+        to add more spaces for selected item-->
+        <attr format="boolean" name="selectedTakesMoreSpace"/>
+
+        <!-- describe how to put scroll center in the viewport -->
+        <attr name="scrollCenterStrategy">
+
+            <!-- keep scroll center in center of viewport, the middle point is 1/2 inside
+            client area (size - padding) by default.  But you can also use scrollCenterOffset
+            or scrollCenterOffsetPercent to customize it-->
+            <enum name="keepCenter" value="0"/>
+            <!-- keep scroll center as a fixed distance from start/top -->
+            <enum name="fixed" value="1"/>
+            <!-- keep scroll center offset from the center of the view -->
+            <enum name="fixedPercent" value="2"/>
+            <!-- keep scroll center as a fixed distance from end/bottom -->
+            <enum name="fixedToEnd" value="3"/>
+        </attr>
+
+        <!-- only used when scrollCenterStrategy is fixed or fixedPercent -->
+        <attr format="dimension" name="scrollCenterOffset"/>
+
+        <!-- only used when scrollCenterStrategy is fixedPercent -->
+        <attr format="integer" name="scrollCenterOffsetPercent"/>
+
+        <!-- how to align the selected item -->
+        <attr name="scrollItemAlign">
+            <!-- align the center of selected item -->
+            <enum name="center" value="0"/>
+            <!-- align the start/up edge of selected item -->
+            <enum name="low" value="1"/>
+            <!-- align the end/down edge of selected item -->
+            <enum name="high" value="2"/>
+        </attr>
+
+        <!-- divisor (>=1) for view to chasing the scrolling target pos, set to 1.0 for
+        immediately fill the gap of current pos and target, default value 2.0 fills half
+        of the gap every time.  The reason that we use Lerper model is for smoothing out
+        transitions between two different animations. -->
+        <attr format="float" name="lerperDivisor"/>
+
+        <!--
+          distance based transform for the views on the start/top of center position,
+          the duration is interpreted as "dip" instead of milliseconds
+        -->
+        <attr format="reference" name="lowItemTransform"/>
+
+        <!--
+          distance based transform for the views on the end/down of center position,
+          the duration is interpreted as "dip" instead of milliseconds
+        -->
+        <attr format="reference" name="highItemTransform"/>
+
+        <!-- animation for showing expanded item -->
+        <attr format="reference" name="expandedItemInAnim"/>
+
+        <!-- animation for hiding expanded item -->
+        <attr format="reference" name="expandedItemOutAnim"/>
+
+        <!--  allow DPAD key to navigate out of scrollAdapterView, default is true -->
+        <attr format="boolean" name="navigateOutAllowed"/>
+
+        <!--  allow DPAD key to navigate out of off axis of scrollAdapterView, default is true -->
+        <attr format="boolean" name="navigateOutOfOffAxisAllowed"/>
+
+        <!--  allow DPAD key during animation, default is true -->
+        <attr format="boolean" name="navigateInAnimationAllowed"/>
+
+    </declare-styleable>
+</resources>

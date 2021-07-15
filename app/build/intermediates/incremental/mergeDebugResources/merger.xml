@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res"><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values\values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-af\values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-am\values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ar\values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-as\values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-az\values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-b+sr+Latn\values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-be\values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-bg\values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-bn\values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-bs\values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ca\values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-cs\values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-da\values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-de\values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-el\values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-en-rAU\values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-en-rCA\values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-en-rGB\values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-en-rIN\values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-en-rXC\values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-es\values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-es-rUS\values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-et\values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-eu\values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-fa\values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-fi\values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-fr\values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-fr-rCA\values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-gl\values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-gu\values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-hi\values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-hr\values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-hu\values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-hy\values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-in\values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-is\values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-it\values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-iw\values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ja\values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ka\values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-kk\values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-km\values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-kn\values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ko\values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ky\values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-lo\values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-lt\values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-lv\values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-mk\values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ml\values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-mn\values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-mr\values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ms\values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-my\values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-nb\values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ne\values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-nl\values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-or\values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-pa\values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-pl\values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-pt\values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-pt-rBR\values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-pt-rPT\values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ro\values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ru\values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-si\values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-sk\values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-sl\values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-sq\values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-sr\values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-sv\values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-sw\values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ta\values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-te\values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-th\values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-tl\values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-tr\values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-uk\values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-ur\values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-uz\values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-v16\values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-v21\values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\poste\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res"/><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\build\generated\res\rs\debug"/><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res"><file name="fade_in" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="fragment_slide_left_in" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\fragment_slide_left_in.xml" qualifiers="" type="anim"/><file name="fragment_slide_left_out" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\fragment_slide_left_out.xml" qualifiers="" type="anim"/><file name="fragment_slide_right_in" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\fragment_slide_right_in.xml" qualifiers="" type="anim"/><file name="fragment_slide_right_out" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\fragment_slide_right_out.xml" qualifiers="" type="anim"/><file name="hard_cut_in" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\hard_cut_in.xml" qualifiers="" type="anim"/><file name="lb_dialog_fade_out" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\lb_dialog_fade_out.xml" qualifiers="" type="anim"/><file name="list_item_focus" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\list_item_focus.xml" qualifiers="" type="anim"/><file name="list_item_pressed" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\list_item_pressed.xml" qualifiers="" type="anim"/><file name="setup_fragment_close_in" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\setup_fragment_close_in.xml" qualifiers="" type="anim"/><file name="setup_fragment_close_out" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\setup_fragment_close_out.xml" qualifiers="" type="anim"/><file name="setup_fragment_open_in" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\setup_fragment_open_in.xml" qualifiers="" type="anim"/><file name="setup_fragment_open_out" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\setup_fragment_open_out.xml" qualifiers="" type="anim"/><file name="setup_scroll_adapter" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\anim\setup_scroll_adapter.xml" qualifiers="" type="anim"/><file name="button_background" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\button_background.xml" qualifiers="" type="drawable"/><file name="content_fragment_default_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\content_fragment_default_icon.xml" qualifiers="" type="drawable"/><file name="default_contact_picture" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\default_contact_picture.png" qualifiers="" type="drawable"/><file name="heartbeat_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\heartbeat_icon.xml" qualifiers="" type="drawable"/><file name="ic_app_shortcut" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_app_shortcut.xml" qualifiers="" type="drawable"/><file name="ic_bluetooth" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_bluetooth.xml" qualifiers="" type="drawable"/><file name="ic_bluetooth_searching_128dp" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_bluetooth_searching_128dp.xml" qualifiers="" type="drawable"/><file name="ic_chevron_end" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_chevron_end.xml" qualifiers="" type="drawable"/><file name="ic_info_outline" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_info_outline.xml" qualifiers="" type="drawable"/><file name="ic_list_sync_anim" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_list_sync_anim.xml" qualifiers="" type="drawable"/><file name="ic_menu_ethernet" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_menu_ethernet.xml" qualifiers="" type="drawable"/><file name="ic_settings_tv" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_settings_tv.png" qualifiers="" type="drawable"/><file name="ic_sync" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_sync.xml" qualifiers="" type="drawable"/><file name="ic_sync_problem" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_sync_problem.xml" qualifiers="" type="drawable"/><file name="ic_system_update" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_system_update.xml" qualifiers="" type="drawable"/><file name="ic_volume_off" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_volume_off.xml" qualifiers="" type="drawable"/><file name="ic_volume_up" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\ic_volume_up.xml" qualifiers="" type="drawable"/><file name="kiosk_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\kiosk_icon.xml" qualifiers="" type="drawable"/><file name="list_item_checkmark" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\list_item_checkmark.xml" qualifiers="" type="drawable"/><file name="shape_border" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\shape_border.xml" qualifiers="" type="drawable"/><file name="stat_sys_ethernet_fully" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable\stat_sys_ethernet_fully.xml" qualifiers="" type="drawable"/><file name="earth" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\earth.png" qualifiers="hdpi-v4" type="drawable"/><file name="encroid_progress" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\encroid_progress.png" qualifiers="hdpi-v4" type="drawable"/><file name="encroid_waiting" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\encroid_waiting.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_app_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_app_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_display" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_display.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_hdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_hdr.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_launcher_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_launcher_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_more" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_more.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_now_movies" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_now_movies.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_outputs" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_outputs.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_overscan" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_overscan.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_power" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_power.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_sdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\ic_settings_sdr.png" qualifiers="hdpi-v4" type="drawable"/><file name="logo_settings_color_48dp" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-hdpi\logo_settings_color_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg_dialog" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\bg_dialog.png" qualifiers="mdpi-v4" type="drawable"/><file name="button_focused" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\button_focused.png" qualifiers="mdpi-v4" type="drawable"/><file name="earth" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\earth.png" qualifiers="mdpi-v4" type="drawable"/><file name="encroid_progress" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\encroid_progress.png" qualifiers="mdpi-v4" type="drawable"/><file name="encroid_waiting" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\encroid_waiting.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_app_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_app_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_display" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_display.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_hdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_hdr.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_launcher_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_launcher_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_more" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_more.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_now_movies" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_now_movies.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_outputs" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_outputs.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_overscan" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_overscan.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_power" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_power.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_sdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\ic_settings_sdr.png" qualifiers="mdpi-v4" type="drawable"/><file name="logo_settings_color_48dp" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-mdpi\logo_settings_color_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="art_frame_shadow" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\art_frame_shadow.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="earth" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\earth.png" qualifiers="xhdpi-v4" type="drawable"/><file name="encroid_progress" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\encroid_progress.png" qualifiers="xhdpi-v4" type="drawable"/><file name="encroid_waiting" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\encroid_waiting.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher_banner_settings" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_launcher_banner_settings.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_app_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_app_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_display" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_display.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_hdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_hdr.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_launcher_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_launcher_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_more" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_more.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_now_movies" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_now_movies.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_outputs" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_outputs.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_overscan" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_overscan.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_power" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_power.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_sdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xhdpi\ic_settings_sdr.png" qualifiers="xhdpi-v4" type="drawable"/><file name="earth" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\earth.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_app_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_app_icon.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_display" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_display.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_hdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_hdr.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_launcher_icon" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_launcher_icon.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_more" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_more.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_now_movies" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_now_movies.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_outputs" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_outputs.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_overscan" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_overscan.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_power" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_power.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_sdr" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\ic_settings_sdr.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="logo_settings_color_48dp" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\drawable-xxhdpi\logo_settings_color_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="browse_item" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\browse_item.xml" qualifiers="" type="layout"/><file name="content_fragment" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\content_fragment.xml" qualifiers="" type="layout"/><file name="dialog_container" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\dialog_container.xml" qualifiers="" type="layout"/><file name="dialog_eth" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\dialog_eth.xml" qualifiers="" type="layout"/><file name="dialog_outputmode" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\dialog_outputmode.xml" qualifiers="" type="layout"/><file name="edittext_fragment" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\edittext_fragment.xml" qualifiers="" type="layout"/><file name="lb_dialog_content" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\lb_dialog_content.xml" qualifiers="" type="layout"/><file name="lb_dialog_fragment" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\lb_dialog_fragment.xml" qualifiers="" type="layout"/><file name="picker" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\picker.xml" qualifiers="" type="layout"/><file name="picker_column" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\picker_column.xml" qualifiers="" type="layout"/><file name="picker_item" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\picker_item.xml" qualifiers="" type="layout"/><file name="picker_separator" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\picker_separator.xml" qualifiers="" type="layout"/><file name="preference_reversed_widget" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\preference_reversed_widget.xml" qualifiers="" type="layout"/><file name="preference_widget_sync_toggle" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\preference_widget_sync_toggle.xml" qualifiers="" type="layout"/><file name="radio_preference_widget" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\radio_preference_widget.xml" qualifiers="" type="layout"/><file name="settings_list" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\settings_list.xml" qualifiers="" type="layout"/><file name="settings_list_item" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\settings_list_item.xml" qualifiers="" type="layout"/><file name="settings_main_prefs" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\settings_main_prefs.xml" qualifiers="" type="layout"/><file name="toast_notification" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\layout\toast_notification.xml" qualifiers="" type="layout"/><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="sound_select_entries">
+        <item>HDMI, Line out</item>
+        <item>SPDIF</item>
+        <item>I2S</item>
+    </string-array><string-array name="sound_select_entry_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>8</item>
+    </string-array><string-array name="dolby_vision_entries">
+        <item>Dolby Vision OFF</item>
+        <item>Dolby Vision Follow Sink</item>
+        <item>Dolby Vision Follow Source</item>
+    </string-array><string-array name="dolby_vision_entry_values" translatable="false">
+        <item>dolby_vision_off</item>
+        <item>dolby_vision_sink</item>
+        <item>dolby_vision_source</item>
+    </string-array></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CanvasSettings">
+        <attr format="reference" name="preference"/>
+    </declare-styleable><declare-styleable name="FrameLayoutWithShadows">
+        
+        <attr format="reference" name="defaultShadow"/>
+        
+        <attr format="reference" name="drawableBottom"/>
+        </declare-styleable><declare-styleable name="ScrollAdapterView">
+
+        <attr name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+
+        
+        <attr format="boolean" name="itemFocusable"/>
+
+        
+        <attr format="integer" name="gridSetting"/>
+
+        
+        <attr format="dimension" name="space"/>
+
+        
+        <attr format="dimension" name="selectedSize"/>
+
+        
+        <attr format="boolean" name="selectedTakesMoreSpace"/>
+
+        
+        <attr name="scrollCenterStrategy">
+
+            
+            <enum name="keepCenter" value="0"/>
+            
+            <enum name="fixed" value="1"/>
+            
+            <enum name="fixedPercent" value="2"/>
+            
+            <enum name="fixedToEnd" value="3"/>
+        </attr>
+
+        
+        <attr format="dimension" name="scrollCenterOffset"/>
+
+        
+        <attr format="integer" name="scrollCenterOffsetPercent"/>
+
+        
+        <attr name="scrollItemAlign">
+            
+            <enum name="center" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr>
+
+        
+        <attr format="float" name="lerperDivisor"/>
+
+        
+        <attr format="reference" name="lowItemTransform"/>
+
+        
+        <attr format="reference" name="highItemTransform"/>
+
+        
+        <attr format="reference" name="expandedItemInAnim"/>
+
+        
+        <attr format="reference" name="expandedItemOutAnim"/>
+
+        
+        <attr format="boolean" name="navigateOutAllowed"/>
+
+        
+        <attr format="boolean" name="navigateOutOfOffAxisAllowed"/>
+
+        
+        <attr format="boolean" name="navigateInAnimationAllowed"/>
+
+    </declare-styleable><declare-styleable name="RadioPreference">
+        <attr format="string" name="radioGroup"/>
+    </declare-styleable></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\colors.xml" qualifiers=""><color name="normal">#FFFFFFFF</color><color name="background">#FF707070</color><color name="legacy_app_item_background">#1a000000</color><color name="settings_background">#FF1F292E</color><color name="quiet">#FF909090</color><color name="icon_background">#FF4A4F51</color><color name="add_accessory_hint_text_color">#FFE0E0E0</color><color name="overlay_blended_light_primary">#ffeeeeee</color><color name="overlay_blended_light_secondary">#ff878787</color><color name="lb_dialog_activity_background">#77000000</color><color name="lb_dialog_list_item_unselected_text_color">#FFF1F1F1</color><color name="lb_dialog_list_item_divider_color">#18FFFFFF</color><color name="lb_content_title_text_color">#FFF1F1F1</color><color name="lb_content_breadcrumb_text_color">#88F1F1F1</color><color name="lb_content_description_text_color">#88F1F1F1</color><color name="lb_action_fragment_background">#FF111111</color><color name="lb_dialog_selector_color">#0DFFFFFF</color><item format="float" name="lb_dialog_list_item_unselected_text_alpha" type="string">1.00</item><color name="lb_tv_white">#FFCCCCCC</color><item format="float" name="lb_dialog_list_item_unselected_description_text_alpha" type="string">0.50</item><item format="float" name="lb_dialog_list_item_selected_chevron_background_alpha" type="string">1.00</item><item format="float" name="lb_dialog_list_item_disabled_chevron_background_alpha" type="string">0.50</item><item format="float" name="lb_dialog_list_item_selected_title_text_alpha" type="string">1.00</item><item format="float" name="lb_dialog_list_item_disabled_title_text_alpha" type="string">0.50</item><item format="float" name="lb_dialog_list_item_selected_description_text_alpha" type="string">0.50</item><item format="float" name="lb_dialog_list_item_disabled_description_text_alpha" type="string">0.50</item><color name="indigo_500">#FF3F51B5</color><color name="content_breadcrumb_text_color">#88F1F1F1</color><color name="content_description_text_color">#88F1F1F1</color><color name="content_fragment_default_icon_color">#33F1F1F1</color><color name="content_title_text_color">#FFF1F1F1</color><color name="dialog_activity_background">#77000000</color><color name="list_item_unselected_text_color">#FFF1F1F1</color><color name="selector_color">#0DFFFFFF</color><color name="toast_notification_background">#881F1F1F</color><color name="toast_notification_text_color">#FFF0F0F0</color><color name="tv_white">#FFCCCCCC</color><item format="float" name="list_item_selected_description_text_alpha" type="dimen">0.50</item><item format="float" name="list_item_selected_title_text_alpha" type="dimen">1.00</item><item format="float" name="list_item_unselected_text_alpha" type="dimen">1.00</item><item format="float" name="list_item_disabled_chevron_background_alpha" type="dimen">0.50</item><item format="float" name="list_item_disabled_description_text_alpha" type="dimen">0.50</item><item format="float" name="list_item_disabled_title_text_alpha" type="dimen">0.50</item><item format="float" name="list_item_selected_chevron_background_alpha" type="dimen">1.00</item><item format="float" name="list_item_unselected_description_text_alpha" type="dimen">0.50</item><item format="float" name="picker_item_invisible_column_item_alpha" type="dimen">0.00</item><item format="float" name="picker_item_separator_alpha" type="dimen">0.50</item><item format="float" name="picker_item_visible_column_item_alpha" type="dimen">0.50</item><color name="activity_progress_text">#FFEEEEEE</color><color name="unlock_pattern_view_regular_color">@android:color/white</color><color name="unlock_pattern_view_success_color">#ff84ffff</color><color name="lock_pattern_view_regular_color">#ff37474f</color><color name="lock_pattern_view_success_color">#ff84ffff</color><color name="title_color">@android:color/holo_blue_light</color><color name="lock_pattern_background">#00000000</color><color name="confirm_device_credential_transparent_black">#60000000</color><color name="crypt_keeper_password_background">#70606060</color><color name="lock_pattern_view_regular_color_dark">#ffffff</color><color name="lb_preference_decor_header_background">#0277BD</color><color name="color_text_item">#FF65686F</color><color name="color_text_prompt">#FF808080</color></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\config.xml" qualifiers=""><integer name="setup_fade_in_duration">250</integer><integer name="setup_fade_out_duration">250</integer><integer name="action_title_max_lines">3</integer><integer name="dialog_animation_duration">150</integer><bool name="display_need_digital_sounds">true</bool><bool name="display_need_screen_resolution">true</bool><bool name="display_need_hdr_function">true</bool><bool name="display_need_sdr_function">true</bool><bool name="display_need_playback_set_function">true</bool></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="icon_padding">12dp</dimen><dimen name="browse_item_height">168dp</dimen><dimen name="browse_item_width">168dp</dimen><dimen name="browse_item_icon_height">112dp</dimen><dimen name="browse_item_icon_width">112dp</dimen><dimen name="browse_item_text_marginHor">12dp</dimen><dimen name="browse_item_description_marginBottom">9dp</dimen><dimen name="browse_item_title_marginBottom">29dp</dimen><dimen name="text_size_description">24sp</dimen><dimen name="device_storage_usage_indicator_width">32dip</dimen><dimen name="device_storage_usage_indicator_height">32dip</dimen><dimen name="add_accessory_padding_start">50dp</dimen><dimen name="bt_secure_pair_hint_start_margin">5dp</dimen><dimen name="bt_secure_pair_hint_top_margin">3dp</dimen><integer name="captioning_preview_default_font_size">48</integer><dimen name="browse_item_title_font_size">16sp</dimen><dimen name="browse_item_description_font_size">14sp</dimen><integer name="lb_dialog_animation_duration">150</integer><dimen name="lb_action_fragment_selector_min_height">8dp</dimen><dimen name="lb_dialog_list_item_min_height">64dp</dimen><dimen name="lb_dialog_list_item_min_height_small">48dp</dimen><dimen name="lb_dialog_list_item_vertical_padding">12dp</dimen><dimen name="lb_dialog_list_item_full_start_padding">32dp</dimen><dimen name="lb_dialog_list_item_full_end_padding">56dp</dimen><dimen name="lb_dialog_list_item_start_padding">20dp</dimen><dimen name="lb_dialog_list_item_end_padding">28dp</dimen><dimen name="lb_dialog_list_item_checkmark_diameter">8dp</dimen><dimen name="lb_dialog_list_item_delimiter_padding">4dp</dimen><integer name="lb_dialog_action_title_min_lines">1</integer><dimen name="lb_dialog_list_item_title_font_size">18sp</dimen><dimen name="lb_content_fragment_breadcrumb_text_size">18sp</dimen><dimen name="lb_content_fragment_description_text_size">14sp</dimen><dimen name="lb_action_section_width">384dp</dimen><integer name="lb_dialog_fade_out_duration">200</integer><dimen name="lb_dialog_list_item_icon_width">32dp</dimen><dimen name="lb_dialog_list_item_icon_height">32dp</dimen><integer name="lb_dialog_action_description_min_lines">2</integer><dimen name="lb_dialog_list_item_description_font_size">12sp</dimen><dimen name="lb_content_fragment_title_text_bottom_padding">4dp</dimen><dimen name="lb_content_section_width">576dp</dimen><dimen name="lb_content_fragment_start_padding">48dp</dimen><dimen name="lb_content_fragment_delimiter_padding">16dp</dimen><dimen name="lb_content_fragment_max_icon_height">280dp</dimen><dimen name="lb_content_fragment_title_text_top_padding">2dp</dimen><dimen name="lb_content_fragment_title_text_size">36sp</dimen><dimen name="lb_content_fragment_icon_width">140dp</dimen><dimen name="lb_action_text_width">248dp</dimen><dimen name="lb_action_text_width_no_icon">284dp</dimen><integer name="lb_dialog_action_title_max_lines">3</integer><integer name="animate_in_duration">250</integer><integer name="animate_delay">550</integer><integer name="secondary_animate_delay">120</integer><integer name="slide_in_stagger">100</integer><integer name="slide_in_distance">120</integer><dimen name="account_content_text_bottom_margin">32dp</dimen><dimen name="account_content_text_top_margin">13dp</dimen><dimen name="action_fragment_selector_min_height">8dp</dimen><dimen name="content_fragment_breadcrumb_text_size">18sp</dimen><dimen name="content_fragment_default_icon_height">400dp</dimen><dimen name="content_fragment_default_icon_width">400dp</dimen><dimen name="content_fragment_delimiter_padding">16dp</dimen><dimen name="content_fragment_description_text_size">14sp</dimen><dimen name="content_fragment_icon_width">140dp</dimen><dimen name="content_fragment_start_padding">48dp</dimen><dimen name="content_fragment_max_icon_height">280dp</dimen><dimen name="content_fragment_title_text_bottom_padding">4dp</dimen><dimen name="content_fragment_title_text_size">36sp</dimen><dimen name="content_fragment_title_text_top_padding">2dp</dimen><dimen name="edit_text_width_default">300dp</dimen><dimen name="list_item_checkmark_diameter">8dp</dimen><dimen name="list_item_delimiter_padding">4dp</dimen><dimen name="list_item_description_font_size">12sp</dimen><dimen name="list_item_height">48dp</dimen><dimen name="list_item_icon_size">32dp</dimen><dimen name="list_item_icon_width">32dp</dimen><dimen name="list_item_icon_height">32dp</dimen><dimen name="list_item_start_padding">20dp</dimen><dimen name="list_item_min_height">64dp</dimen><dimen name="list_item_end_padding">28dp</dimen><dimen name="list_item_title_font_size">18sp</dimen><dimen name="list_item_vertical_padding">12dp</dimen><dimen name="pad_start_unsafe_action">56dp</dimen><dimen name="pad_start_unsafe_description">56dp</dimen><dimen name="pad_end_unsafe_action">56dp</dimen><dimen name="picker_column_height">192dp</dimen><dimen name="picker_column_horizontal_padding">8dp</dimen><dimen name="picker_item_height">64dp</dimen><dimen name="picker_start_padding">24dp</dimen><dimen name="picker_separator_horizontal_padding">4dp</dimen><dimen name="width_action">256dp</dimen><dimen name="width_description">536dp</dimen><integer name="action_description_min_lines">2</integer><integer name="action_title_min_lines">1</integer><item format="float" name="alpha_animiation_max_opacity" type="dimen">1.0</item><item format="float" name="alpha_animiation_min_opacity" type="dimen">0.0</item><item format="float" name="alpha_activity_in_bkg_end" type="dimen">@dimen/alpha_animiation_max_opacity</item><item format="float" name="alpha_activity_in_bkg_start" type="dimen">@dimen/alpha_animiation_min_opacity</item><item format="float" name="alpha_activity_out_bkg_end" type="dimen">@dimen/alpha_animiation_min_opacity</item><item format="float" name="alpha_activity_out_bkg_start" type="dimen">@dimen/alpha_animiation_max_opacity</item><integer name="base_animation_duration">500</integer><integer name="alpha_activity_in_bkg_delay">0</integer><integer name="alpha_activity_in_bkg_duration">@integer/base_animation_duration</integer><integer name="alpha_activity_out_bkg_delay">0</integer><integer name="alpha_activity_out_bkg_duration">@integer/base_animation_duration</integer><dimen name="progress_fragment_content_width">656dp</dimen><dimen name="content_icon_inset">16dp</dimen><dimen name="bt_progress_width_narrow">448dp</dimen><dimen name="setup_action_margin_start">56dp</dimen><dimen name="setup_elevation">2dp</dimen><dimen name="setup_elevation_higher">3dp</dimen><dimen name="setup_background_radius">2dp</dimen><item format="float" name="setup_title_line_spacing_multiplier" type="dimen">1.04296</item><dimen name="setup_title_height">235dp</dimen><dimen name="setup_description_margin_start">112dp</dimen><dimen name="setup_description_width">448dp</dimen><item format="float" name="setup_description_line_spacing_multiplier" type="dimen">1.70667</item><dimen name="setup_description_margin_top">13dp</dimen><dimen name="setup_description_text_size">12sp</dimen><dimen name="setup_scroll_list_width">237dp</dimen><item format="float" name="setup_scroll_list_window_offset_percent" type="dimen">68.05556</item><dimen name="setup_action_vertical_offset">195dp</dimen><dimen name="setup_action_vertical_offset_bottom">61dp</dimen><dimen name="setup_list_item_icon_margin_end">16dp</dimen><dimen name="setup_list_item_height">48dp</dimen><dimen name="setup_list_item_padding">16dp</dimen><dimen name="setup_list_item_container_shadow_padding">5dp</dimen><dimen name="setup_list_item_text_size">14sp</dimen><integer name="setup_list_item_pressed_fade_duration">100</integer><dimen name="setup_obfuscation_margin_start">9dp</dimen><dimen name="setup_obfuscation_margin_top">8dp</dimen><dimen name="setup_slide_in_offset">28dp</dimen><dimen name="setup_slide_out_offset">-28dp</dimen><dimen name="activity_progress_top_margin">187dp</dimen><dimen name="activity_progress_title_text_size">36sp</dimen><item format="float" name="activity_progress_title_line_spacing" type="dimen">1.04296</item><dimen name="crypt_keeper_edit_text_ime_padding">8dip</dimen><dimen name="crypt_keeper_password_width">280dip</dimen><dimen name="crypt_keeper_password_top_margin">88dip</dimen><dimen name="crypt_keeper_pattern_top_margin">88dip</dimen><dimen name="crypt_keeper_pattern_size">354dip</dimen><dimen name="crypt_keeper_pattern_separator">100dip</dimen><dimen name="settings_side_margin">0dip</dimen><dimen name="confirm_credentials_top_padding">0dp</dimen><dimen name="pq_seekbar_title">16sp</dimen><dimen name="pq_seekbar_item">14sp</dimen><dimen name="pq_seekbar_title_marginTop">29dp</dimen><dimen name="pq_seekbar_item_marginBottom">12dp</dimen><dimen name="pq_seekbar_item_marginTop">12dp</dimen><dimen name="pq_seekbar_item_marginLeft">12dp</dimen><dimen name="activity_horizontal_margin">32dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="remote_marginStart">100dp</dimen></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\id.xml" qualifiers=""><item name="ScrollAdapterViewChild" type="id"/><item name="imageDownloadTask" type="id"/><item name="ShadowView" type="id"/><item name="ShadowedView" type="id"/><item name="ControllerTagId" type="id"/><item name="LoaderTagId" type="id"/></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\pr_eth.xml" qualifiers=""><string-array name="wifi_ip_settings">
+        
+        <item>DHCP</item>
+        
+        <item>Static</item>
+    </string-array><string-array name="wifi_proxy_settings">
+        
+        <item>None</item>
+        
+        <item>Manual</item>
+    </string-array><string name="wifi_ip_settings">IP settings</string><string name="wifi_ip_address">IP address</string><string name="wifi_ip_address_hint" translatable="false">192.168.1.128</string><string name="wifi_advanced_settings_label">IP settings</string><string name="wifi_ip_settings_menu_save">Save</string><string name="wifi_ip_settings_menu_cancel">Cancel</string><string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string><string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string><string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string><string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string><string name="wifi_dns1">DNS 1</string><string name="wifi_dns1_hint" translatable="false">8.8.8.8</string><string name="wifi_dns2">DNS 2</string><string name="wifi_dns2_hint" translatable="false">4.4.4.4</string><string name="wifi_gateway">Gateway</string><string name="wifi_gateway_hint" translatable="false">192.168.1.1</string><string name="wifi_network_prefix_length">Network prefix length</string><string name="wifi_network_prefix_length_hint" translatable="false">24</string><string name="proxy_settings_title">Proxy settings</string><string name="proxy_hostname_label">Proxy hostname</string><string name="proxy_hostname_hint">proxy.example.com</string><string name="proxy_port_label">Proxy port</string><string name="proxy_port_hint" translatable="false">8080</string><string name="proxy_exclusionlist_label">Bypass proxy for</string><string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string><string name="proxy_error">Attention</string><string name="proxy_error_dismiss">OK</string><string name="proxy_error_invalid_host">The hostname you typed isn\u2019t valid.</string><string name="proxy_error_invalid_exclusion_list">The exclusion list you typed isn\u2019t properly formatted. Type a comma-separated list of excluded domains.</string><string name="proxy_error_empty_port">You need to complete the port field.</string><string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string><string name="proxy_error_invalid_port">The port you typed isn\u2019t valid.</string><string name="bt_apply">Apply</string></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\resolution.xml" qualifiers=""><string-array name="resolutions">
+        <item>autodetect</item>
+        <item>2160p60hz</item>
+        <item>2160p50hz</item>
+        <item>2160p30hz</item>
+        <item>2160p25hz</item>
+        <item>2160p24hz</item>
+        <item>smpte24hz</item>
+        <item>1080p60hz</item>
+        <item>1080i60hz</item>
+        <item>1080p50hz</item>
+        <item>1080i50hz</item>
+        <item>1080p24hz</item>
+        <item>720p60hz</item>
+        <item>720p50hz</item>
+        <item>576p50hz</item>
+        <item>576i50hz</item>
+        <item>480p60hz</item>
+        <item>480i60hz</item>
+        <item>ODROID-VU8</item>
+        <item>ODROID-VU7A Plus</item>
+        <item>ODROID-VU7 Plus</item>
+        <item>ODROID-VU5A</item>
+        <item>ODROID-VU5/7</item>
+        <item>2560x1080p60hz</item>
+        <item>1920x1200p60hz</item>
+        <item>1680x1050p60hz</item>
+        <item>1600x1200p60hz</item>
+        <item>1600x900p60hz</item>
+        <item>1440x900p60hz</item>
+        <item>1360x768p60hz</item>
+        <item>1280x1024p60hz</item>
+        <item>1280x800p60hz</item>
+        <item>1024x768p60hz</item>
+        <item>1024x600p60hz</item>
+        <item>800x600p60hz</item>
+        <item>800x480p60hz</item>
+        <item>640x480p60hz</item>
+        <item>480x320p60hz</item>
+    </string-array></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\strings.xml" qualifiers=""><string name="settings_app_name">Odroid Settings</string><string name="launcher_settings_app_name">Odroid Settings</string><string name="system_more_setting">More settings</string><string name="system_setting">Settings</string><string name="device_display">Display</string><string name="device_outputmode">Screen resolution</string><string name="device_displaymode">Display Mode</string><string name="device_color">Color</string><string name="device_colorattribute">Format and Depth</string><string name="device_outputmode_color_space">Color Space Settings</string><string name="device_outputmode_color_depth">Color Depth Settings</string><string name="device_outputmode_auto">Auto switch to best resolution</string><string name="device_outputmode_deepcolor">deep color mode</string><string name="device_outputmode_confirm_mode">Confirm turn off deep color mode</string><string name="device_outputmode_confirm_deepcolor">Confirm turn on deep color mode</string><string name="device_outputmode_change">Reboot to change mode:</string><string name="device_colorattribute_change">Confirm change to color:</string><string name="device_countdown"> seconds later dismiss</string><string name="device_position">Screen position</string><string name="device_position_zoomout">Zoom out screen</string><string name="device_position_zoomin">Zoom in screen</string><string name="device_position_description">current scaling is</string><string name="update">Update</string><string name="update_from_online">From online package</string><string name="update_from_storage">From downloaded package</string><string name="update_selected_server">Update Server</string><string name="update_official_server">Official</string><string name="update_mirror_server">Mirror</string><string name="update_custom_server">Custom</string><string name="get_custom_url">Please enter your Android update server URL properly.</string><string name="check_update">Check update at Boot</string><string name="cpu">CPU</string><string name="little_core_clock">Little Core Clocks</string><string name="little_core_governor">Little Core Governors</string><string name="big_core_clock">Big Core Clocks</string><string name="big_core_governor">Big Core Governors</string><string name="rotation">Rotation</string><string name="landscape">Landscape</string><string name="portrait">Portrait</string><string name="portrait_90">90</string><string name="portrait_270">270</string><string name="show_all_resolution">Support Resolution</string><string name="playback_settings">Playback settings</string><string name="misc_settings">Misc settings</string><string name="pref_enable_bluetooth_sink">pref_enable_bluetooth_sink</string><string name="pref_enable_bluetooth_sink_title">Enable Bluetooth Sink profile</string><string name="pref_enable_gps">pref_enable_gps</string><string name="pref_enable_gps_title">Enable GPS</string><string name="pref_force_shutdown_without_dialog">pref_force_shutdown_without_dialog</string><string name="pref_force_shutdown_without_dialog_title">Force shutdown without dialog</string><string name="ethernet_settings">Ethernet settings</string><string name="pref_static_ip">pref_static_ip</string><string name="pref_static_ip_title">IP and Proxy Settings</string><string name="playback_hdmi_selfadaption">HDMI self-adaption</string><string name="playback_hdmi_selfadaption_part">part mode</string><string name="playback_hdmi_selfadaption_total">totle mode</string><string name="playback_hdmi_selfadaption_part_desc">only support 23.976hz,29.97hz,59.94hz self adaption</string><string name="playback_hdmi_selfadaption_total_desc">support all frequencys self adaption</string><string name="power_key_action">Power</string><string name="system_powerkeyaction">Powerkey definition</string><string name="power_key_definition">Power key definition</string><string name="power_key_shutdown">shutdown</string><string name="power_key_suspend">suspend and resume</string><string name="wake_on_lan">Wake On Lan</string><string name="eth0_address">Ethernet MAC address</string><string name="app_shortcut">Shortcut</string><string name="shortcut_title_f7">F7</string><string name="shortcut_title_f8">F8</string><string name="shortcut_title_f9">F9</string><string name="shortcut_title_f10">F10</string><string name="led">Led</string><string name="heartbeat">Heartbeat</string><string name="title_ok">OK</string><string name="title_cancel">Cancel</string><string name="action_on_title">On</string><string name="action_off_title">Off</string><string name="action_on_description">On</string><string name="action_off_description">Off</string><string name="device_hdr">HDR to SDR</string><string name="device_sdr">SDR to HDR</string><string name="dolby_vision">Dolby Vision</string><string name="dolby_vision_set">Dolby Vision Set</string><string name="dolby_vision_tv">TV Dolby Vision</string><string name="dolby_vision_tv_set">TV Dolby Vision Set</string><string name="dolby_vision_default_enable">Dolby vision enable</string><string name="dolby_vision_low_latency_yuv">Dolby vision enable with low latency (YUV)</string><string name="dolby_vision_low_latency_rgb">Dolby vision enable with low latency (RGB)</string><string name="dolby_vision_off">Dolby vision disable</string><string name="dolby_vision_graphics_priority">Dolby Vision Graphics Priority</string><string name="graphics_priority">Graphics Priority</string><string name="video_priority">Video Priority</string><string name="captions_display_on">On</string><string name="captions_display_off">Off</string><string name="on">On</string><string name="off">Off</string><string name="device_sound">Audio Output</string><string name="device_sound_select">Output select</string><string name="device_sound_digital_auto">Auto detection</string><string name="device_sound_digital_auto_off">OFF</string><string name="device_sound_digital_pcm">PCM</string><string name="device_sound_digital_hdmi">HDMI</string><string name="device_sound_digital_spdif">SPDIF</string><string name="device_sound_dts">DTS Sounds</string><string name="device_sound_dts_downmix">DTS Downmix</string><string name="device_sound_dts_downmix_o">Lo/Ro</string><string name="device_sound_dts_downmix_t">Lt/Rt</string><string name="device_sound_dts_dialnorm">DTS Dialnorm</string><string name="device_sound_dts_trans">DTS Transcoder</string><string name="device_sound_dts_trans_auto">Auto</string><string name="device_sound_dts_trans_51pcm">5.1 PCM Transcoder</string><string name="device_sound_dts_trans_71pcm">7.1 PCM Transcoder</string><string name="device_sound_dts_mulasset">DTS Mulasset</string><string name="device_sound_dolby_drcmode">DRC mode</string><string name="device_sound_dolby_drcoff">OFF</string><string name="device_sound_dolby_drcline">LINE</string><string name="device_sound_dolby_drcrf">RF</string><string name="surround_sound_format_e_ac3_joc">Dolby Atmos in Dolby Digital Plus</string><string name="surround_sound_format_ac3">Dolby Digital</string><string name="surround_sound_format_e_ac3">Dolby Digital Plus</string><string name="surround_sound_format_dts">DTS</string><string name="surround_sound_format_dts_hd">DTS-HD</string><string name="surround_sound_format_aac_lc">AAC</string><string name="surround_sound_format_truehd">Dolby TrueHD</string><string name="surround_sound_format_ac4">Dolby AC-4</string><string name="device_tv_audio_speaker">Speaker</string><string name="device_tv_audio_arc">Arc</string><string name="device_audio_spdif">Spdif</string><string name="sync_failed">Sync failed</string><string name="sync_active">Sync active</string><string name="system_cec">HDMI CEC</string><string name="cec_control">CEC Control</string><string name="cec_switch">CEC Switch</string><string name="cec_one_key_play">One key play</string><string name="cec_one_key_power_off">One key power off</string><string name="cec_auto_change_language">Auto change language</string><string name="tv_cec_auto_power_on_all">Auto Power On All</string><string name="tv_cec_manual_wake_up_devices">Manual wakeup devices</string><string name="power_action_suspend">sleep now</string><string name="power_action_restart">restart</string><string name="power_action_shutdown">shutdown</string><string name="netflix_esn">Netflix ESN</string><string name="crypt_keeper_encrypt_title">Encrypt MBOX</string><string name="crypt_keeper_settings_title">Encryption</string><string name="crypt_keeper_encrypted_summary">Encrypted</string><string name="enter_password">To start Android, enter your password</string><string name="starting_android">Starting Android\u2026</string><string name="cryptkeeper_wrong_password">Wrong Password</string><string name="cryptkeeper_return_to_call">Return to call</string><string name="cryptkeeper_emergency_call">Emergency call</string><string name="crypt_keeper_dialog_need_password_title">No lock screen PIN or password</string><string name="crypt_keeper_button_text">Encrypt Mbox</string><string name="crypt_keeper_low_charge_text">Charge your battery and try again.</string><string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string><string name="crypt_keeper_dialog_need_password_message">You need to set a lock screen PIN or password before you can start encryption.</string><string name="crypt_keeper_desc">
+      You can encrypt your accounts, settings, downloaded apps and their data,
+      media, and other files. After you encrypt your tablet, assuming you\u2019ve set up a screen lock
+      (that is, a pattern or numeric PIN or password), you\u2019ll need to unlock the screen to decrypt
+      the tablet every time you power it on. The only other way to decrypt is to perform a factory
+      data reset, erasing all your data.\n\nEncryption takes an hour or more. You must start with
+      a charged battery and keep your tablet plugged in throughout the process. If you interrupt it,
+      you\u2019ll lose some or all of your data</string><string name="crypt_keeper_confirm_title">Encrypt?</string><string name="crypt_keeper_final_desc">
+    The encryption operation is irreversible and if you interrupt it, you\u2019ll lose data.
+    Encryption takes an hour or more, during which the tablet will restart several times.
+    </string><string name="crypt_keeper_setup_title">Encrypting</string><string name="crypt_keeper_setup_description">Wait while your phone
+    is being encrypted. <ns1:g example="50" id="percent">^1</ns1:g>% complete.</string><string name="crypt_keeper_setup_time_remaining">Wait while your phone
+    is being encrypted. Time remaining: <ns1:g example="1:23" id="duration">^1</ns1:g></string><string name="crypt_keeper_force_power_cycle">To unlock your phone, turn it off and then on.</string><string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after
+    <ns1:g example="7" id="count">^1</ns1:g> more failed attempts to be unlocked!
+    </string><string name="crypt_keeper_enter_password">Type your password</string><string name="crypt_keeper_failed_title">Encryption unsuccessful</string><string name="crypt_keeper_failed_summary">
+      Encryption was interrupted and can\u2019t complete. As a result, the data on
+      your phone is no longer accessible.
+      \n\nTo resume using your phone, you need to perform a factory reset.
+      When you set up your phone after the reset, you\u2019ll have an opportunity
+      to restore any data that was backed up to your Google Account.
+    </string><string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string><string name="crypt_keeper_data_corrupt_summary">
+      The password you entered is correct, but unfortunately your data is
+      corrupt.
+      \n\nTo resume using your phone, you need to perform a factory reset.
+      When you set up your phone after the reset, you\u2019ll have an opportunity
+      to restore any data that was backed up to your Google Account.
+    </string><string name="crypt_keeper_switch_input_method">Switch input method</string><string name="master_clear_button_text">Reset Mbx</string><string name="checking_decryption">Checking\u2026</string><string name="cryptkeeper_wrong_pin">Wrong PIN</string><string name="cryptkeeper_wrong_pattern">Wrong Pattern</string><string name="enter_pin">To start Android, enter your PIN</string><string name="enter_pattern">To start Android, draw your pattern</string><string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in <ns1:g id="number">%d</ns1:g> seconds.</string><string name="lock_profile_wipe_attempts">Try again. Attempt <ns1:g id="current_attempts">%1$d</ns1:g> of <ns1:g id="total_attempts">%2$d</ns1:g>.</string><string name="global_change_warning">This setting affects all users on this tablet.</string><string name="battery_history_seconds"><ns1:g id="seconds">%1$d</ns1:g>s</string><string name="battery_history_days"><ns1:g id="days">%1$d</ns1:g>d <ns1:g id="hours">%2$d</ns1:g>h <ns1:g id="minutes">%3$d</ns1:g>m <ns1:g id="seconds">%4$d</ns1:g>s</string><string name="battery_history_hours"><ns1:g id="hours">%1$d</ns1:g>h <ns1:g id="minutes">%2$d</ns1:g>m <ns1:g id="seconds">%3$d</ns1:g>s</string><string name="battery_history_minutes"><ns1:g id="minutes">%1$d</ns1:g>m <ns1:g id="seconds">%2$d</ns1:g>s</string><string name="battery_history_minutes_no_seconds"><ns1:g id="minutes">%1$d</ns1:g>m</string><string name="battery_history_hours_no_seconds"><ns1:g id="hours">%1$d</ns1:g>h <ns1:g id="minutes">%2$d</ns1:g>m</string><string name="battery_history_days_no_seconds"><ns1:g id="days">%1$d</ns1:g>d <ns1:g id="hours">%2$d</ns1:g>h <ns1:g id="minutes">%3$d</ns1:g>m</string><string name="cancel">Cancel</string><string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string><string name="lock_profile_wipe_warning_content_pattern">If you enter an incorrect work pattern on this attempt, your work profile and associated data will be removed from this device.</string><string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue</string><string name="lockpassword_confirm_your_pin_generic_profile">Enter your work PIN to continue</string><string name="lock_profile_wipe_warning_title">Last try</string><string name="lock_profile_wipe_content">Too many incorrect attempts. Your work profile and associated data will be removed from this device.</string><string name="lock_profile_wipe_dismiss">Dismiss</string><string name="lockpassword_confirm_your_password_generic">Enter your device password to continue</string><string name="lockpassword_confirm_your_password_generic_profile">Enter your work password to continue</string><string name="lockpassword_strong_auth_required_reason_restart_device_pin">Enter your device PIN to continue. Required after device restarts.</string><string name="lockpassword_strong_auth_required_reason_restart_work_pin">Enter your work PIN to continue. Required after device restarts.</string><string name="lockpassword_strong_auth_required_reason_restart_device_password">Enter your device password to continue. Required after device restarts.</string><string name="lockpassword_strong_auth_required_reason_restart_work_password">Enter your work password to continue. Required after device restarts.</string><string name="lockpassword_confirm_your_password_header">Confirm your password</string><string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string><string name="lockpassword_invalid_password">Wrong password</string><string name="lockpassword_invalid_pin">Wrong PIN</string><string name="lock_profile_wipe_warning_content_password">If you enter an incorrect work password on this attempt, your work profile and associated data will be removed from this device.</string><string name="lock_profile_wipe_warning_content_pin">If you enter an incorrect work PIN on this attempt, your work profile and associated data will be removed from this device.</string><string name="settings_menu">Menu</string><string name="tv_ok">OK</string><string name="tv_cancel">cancel</string><string name="kiosk">Kiosk</string><string name="kiosk_mode">Kiosk Mode</string><string name="kiosk_mode_info">Disable the navigation bar and status bar</string></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\styles.xml" qualifiers=""><style name="SettingsStyle.TextAppearanceMedium" parent="@android:style/TextAppearance.Holo.Medium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style><style name="SettingsStyle.TextAppearanceLarge" parent="@android:style/TextAppearance.Holo.Large">
+        <item name="android:textSize">34sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style><style name="SettingsWindowAnimationStyle" parent="@android:style/Animation.Activity">
+        <item name="android:fragmentOpenEnterAnimation">@anim/setup_fragment_open_in</item>
+        <item name="android:fragmentOpenExitAnimation">@anim/setup_fragment_open_out</item>
+        <item name="android:fragmentCloseEnterAnimation">@anim/setup_fragment_close_in</item>
+        <item name="android:fragmentCloseExitAnimation">@anim/setup_fragment_close_out</item>
+    </style><style name="Theme.Settings" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/settings_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Leanback</item>
+    </style><style name="Theme.Settings.Display" parent="android:Theme">
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style><style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style><style name="Theme.Settings.Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style><style name="Theme.Leanback.FormWizard.Solid" parent="@android:style/Theme.Leanback.FormWizard">
+        <item name="android:windowBackground">@color/settings_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+    </style><style name="Theme.Leanback.FormWizard.Transparent" parent="@android:style/Theme.Leanback.FormWizard">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+    </style><style name="Theme.Settings.BluetoothPairing" parent="@style/SettingsStyle.TextAppearanceMedium">
+        <item name="android:textSize">@dimen/text_size_description</item>
+    </style><style name="HintText">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:textColor">@color/add_accessory_hint_text_color</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="ContentFragment">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style><style name="Canvas"/><style name="Canvas.Text"/><style name="Canvas.Text.Dialog"/><style name="Canvas.Text.Dialog.Content"/><style name="Canvas.Text.Dialog.Content.Title">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:paddingBottom">@dimen/content_fragment_title_text_bottom_padding</item>
+        <item name="android:paddingTop">@dimen/content_fragment_title_text_top_padding</item>
+        <item name="android:textColor">@color/content_title_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_title_text_size</item>
+    </style><style name="Canvas.Text.Dialog.Content.Breadcrumb">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/content_breadcrumb_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_breadcrumb_text_size</item>
+    </style><style name="Canvas.Text.Dialog.Content.Description">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:gravity">end</item>
+        <item name="android:textColor">@color/content_description_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_description_text_size</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style><style name="Canvas.Text.Dialog.List"/><style name="Canvas.Image.Dialog.List.Checkmark">
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/list_item_checkmark</item>
+        <item name="android:visibility">invisible</item>
+    </style><style name="Canvas.Text.Dialog.List.Title">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_title_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+    </style><style name="Canvas.Text.Dialog.List.Description">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_description_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="Canvas.Image"/><style name="Canvas.Image.Dialog"/><style name="Canvas.Image.Dialog.Content"/><style name="Canvas.Image.Dialog.Content.Icon">
+        <item name="android:maxHeight">@dimen/content_fragment_max_icon_height</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/content_fragment_default_icon</item>
+    </style><style name="Canvas.Image.Dialog.List"/><style name="Canvas.Image.Dialog.List.Icon">
+        <item name="android:scaleType">center</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="SyncSwitchPreference" parent="LeanbackPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_sync_toggle</item>
+    </style><style name="wifi_item">
+        <item name="android:layout_marginTop">8dip</item>
+        <item name="android:layout_marginStart">8dip</item>
+        <item name="android:layout_marginEnd">8dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">start</item>
+    </style><style name="wifi_item_label">
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Body1</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="wifi_item_warning">
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Body1</item>
+        <item name="android:textColor">?android:attr/colorError</item>
+    </style><style name="wifi_item_content">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Subhead</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style><style name="wifi_item_spinner" parent="wifi_item_content">
+        <item name="android:minHeight">48dp</item>
+    </style><style name="wifi_item_edit_content">
+        <item name="android:paddingStart">4dip</item>
+        <item name="android:layout_marginStart">4dip</item>
+        <item name="android:textSize">18sp</item>
+    </style><style name="wifi_section">
+        <item name="android:orientation">vertical</item>
+    </style></file><file path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\values\widget-strings.xml" qualifiers=""><string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array><string name="date_separator">/</string><string name="time_separator">:</string></file><file name="cpu" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\cpu.xml" qualifiers="" type="xml"/><file name="display" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\display.xml" qualifiers="" type="xml"/><file name="display_position" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\display_position.xml" qualifiers="" type="xml"/><file name="dolby_vision" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\dolby_vision.xml" qualifiers="" type="xml"/><file name="hdmicec" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\hdmicec.xml" qualifiers="" type="xml"/><file name="heartbeat" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\heartbeat.xml" qualifiers="" type="xml"/><file name="ip_settings" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\ip_settings.xml" qualifiers="" type="xml"/><file name="kisok" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\kisok.xml" qualifiers="" type="xml"/><file name="layout_dialog" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\layout_dialog.xml" qualifiers="" type="xml"/><file name="main_prefs" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\main_prefs.xml" qualifiers="" type="xml"/><file name="playback_settings" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\playback_settings.xml" qualifiers="" type="xml"/><file name="resolution" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\resolution.xml" qualifiers="" type="xml"/><file name="screen_resolution" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\screen_resolution.xml" qualifiers="" type="xml"/><file name="shortcut" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\shortcut.xml" qualifiers="" type="xml"/><file name="sound" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\sound.xml" qualifiers="" type="xml"/><file name="update" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\update.xml" qualifiers="" type="xml"/><file name="wol" path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\main\res\xml\wol.xml" qualifiers="" type="xml"/></source><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\build\generated\res\rs\debug"/><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\poste\Desktop\android_packages_apps_odroid_settings\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="RadioPreference">
+        <attr format="string" name="radioGroup"/>
+    </declare-styleable><declare-styleable name="FrameLayoutWithShadows">
+        
+        <attr format="reference" name="defaultShadow"/>
+        
+        <attr format="reference" name="drawableBottom"/>
+        </declare-styleable><declare-styleable name="CanvasSettings">
+        <attr format="reference" name="preference"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ScrollAdapterView">
+
+        <attr name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+
+        
+        <attr format="boolean" name="itemFocusable"/>
+
+        
+        <attr format="integer" name="gridSetting"/>
+
+        
+        <attr format="dimension" name="space"/>
+
+        
+        <attr format="dimension" name="selectedSize"/>
+
+        
+        <attr format="boolean" name="selectedTakesMoreSpace"/>
+
+        
+        <attr name="scrollCenterStrategy">
+
+            
+            <enum name="keepCenter" value="0"/>
+            
+            <enum name="fixed" value="1"/>
+            
+            <enum name="fixedPercent" value="2"/>
+            
+            <enum name="fixedToEnd" value="3"/>
+        </attr>
+
+        
+        <attr format="dimension" name="scrollCenterOffset"/>
+
+        
+        <attr format="integer" name="scrollCenterOffsetPercent"/>
+
+        
+        <attr name="scrollItemAlign">
+            
+            <enum name="center" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr>
+
+        
+        <attr format="float" name="lerperDivisor"/>
+
+        
+        <attr format="reference" name="lowItemTransform"/>
+
+        
+        <attr format="reference" name="highItemTransform"/>
+
+        
+        <attr format="reference" name="expandedItemInAnim"/>
+
+        
+        <attr format="reference" name="expandedItemOutAnim"/>
+
+        
+        <attr format="boolean" name="navigateOutAllowed"/>
+
+        
+        <attr format="boolean" name="navigateOutOfOffAxisAllowed"/>
+
+        
+        <attr format="boolean" name="navigateInAnimationAllowed"/>
+
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

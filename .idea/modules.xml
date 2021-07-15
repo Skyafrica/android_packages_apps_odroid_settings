@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OdroidSettings.iml" filepath="$PROJECT_DIR$/OdroidSettings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_packages_apps_odroid_settings.iml" filepath="$PROJECT_DIR$/.idea/modules/android_packages_apps_odroid_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_packages_apps_odroid_settings.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_packages_apps_odroid_settings.app.iml" />
     </modules>
   </component>
 </project>

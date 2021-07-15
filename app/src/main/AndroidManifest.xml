@@ -19,7 +19,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:banner="@drawable/ic_launcher_banner_settings"
+        android:banner="@drawable/ic_launcher"
         android:defaultToDeviceProtectedStorage="true"
         android:directBootAware="true"
         android:icon="@drawable/logo_settings_color_48dp"
@@ -60,7 +60,7 @@
                  entry point in the LeanbackLauncher
             -->
             <intent-filter
-                android:icon="@drawable/ic_settings_launcher_icon"
+                android:icon="@drawable/ic_launcher"
                 android:label="@string/launcher_settings_app_name"
                 android:priority="3">
                 <action android:name="android.intent.action.MAIN" />
